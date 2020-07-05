@@ -22,36 +22,25 @@ def getHTML(webLink):
     return str(treeOutput) #get html output as a string
 
 def writeHTML(treeOutput):
-    output = open('banana.txt', 'w') #write html to a text file
+    output = open('banana-new.txt', 'w') #write html to a text file
     output.write(treeOutput)
     output.close()
 
 # writeHTML(getHTML(grabWebLink())) # this command is only needed once to write the html to a text file
 
 inputFile = open('banana.txt', 'r') #read in the html 
-stockCount = 0
-greater10count = 0
-i = 0
-noSpacesList = []
-for x in inputFile:
-    print(len(x)) #442 thousand elements in x!
-    spaces = 0
-    nospaces = 0
-    for element in x:
-        if element.isspace():
-            print(element)
-            spaces += 1
-        else:
-            noSpacesList.append(element)
-            nospaces += 1
-    print('spaces',spaces, 'nospaces',nospaces, len(noSpacesList))
-    #if x.lower().find('instock') != -1:
-        #print(x + '\n\n\n\n--------------------------\n')
-    #    stockCount += 1
-    #elif len(x) > 10:
-    #    greater10count += 1
 
-print(stockCount, greater10count)
+isStrings = 0
+notStrings = 0
+for x in inputFile:
+    print(type(x))
+    print(len(x)) #442 thousand elements in x!
+    for element in x:
+        if type(element) == str:
+            isStrings += 1
+        else:
+            notStrings += 1
+    print(isStrings, notStrings)
 
 inputFile.close()
 
