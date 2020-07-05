@@ -31,8 +31,19 @@ def writeHTML(treeOutput):
 inputFile = open('banana.txt', 'r') #read in the html 
 stockCount = 0
 greater10count = 0
+i = 0
 for x in inputFile:
-    print(type(x))
+    print(len(x)) #442 thousand elements in x!
+    strings = 0
+    dicts = 0
+    for element in x:
+        if type(element) == str:
+            strings += 1
+        elif type(element) == dict:
+            dicts += 1
+        else: 
+            print(type(element))
+    print('strings',strings, 'dicts',dicts)
     #if x.lower().find('instock') != -1:
         #print(x + '\n\n\n\n--------------------------\n')
     #    stockCount += 1
