@@ -37,20 +37,12 @@ inputFile = open('banana.txt', 'r') #read in the html
 #inputFile = list(inputFile)
 
 startIndex = 0
-instockIndexes = []
+newInput = []
 for line in inputFile:
-    find = line.lower().find('instock', startIndex)
-    while find != -1:
-        instockIndexes.append(find)
-        startIndex = line.lower().find('instock') + 1
-
-
-    #for element in x: #looks at each character
-        #elements += 1
-#for x in range(200):
-#    print(inputFile[0][x])
-#    x += 1
-#print(inputFile[0][2])
+    strings = line.split(",")
+    for element in strings:
+        startIndex += 1
+print(startIndex)
 
 inputFile.close()
 
