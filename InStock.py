@@ -30,17 +30,15 @@ def writeHTML(treeOutput):
 
 inputFile = open('banana.txt', 'r') #read in the html 
 
-isStrings = 0
-notStrings = 0
+inStock = []
+notFound = 0
 for x in inputFile:
+    notFound +=1
     print(type(x))
-    print(len(x)) #442 thousand elements in x!
-    for element in x:
-        if type(element) == str:
-            isStrings += 1
-        else:
-            notStrings += 1
-    print(isStrings, notStrings)
+    if x.lower().find('banana') != -1:
+        inStock.append(x.lower().find('instock'))
+        print(x)
+print(notFound)
 
 inputFile.close()
 
