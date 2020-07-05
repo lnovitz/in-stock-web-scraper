@@ -26,19 +26,30 @@ def writeHTML(treeOutput):
     output.write(treeOutput)
     output.close()
 
+def appendHTML(treeOutput):
+    output = open('banana-split.txt', 'a') #write html to a text file
+    output.write(treeOutput)
+    output.close()
+
 # writeHTML(getHTML(grabWebLink())) # this command is only needed once to write the html to a text file
 
 inputFile = open('banana.txt', 'r') #read in the html 
+#inputFile = list(inputFile)
 
-inStock = []
-notFound = 0
-for x in inputFile:
-    notFound +=1
-    print(type(x))
-    if x.lower().find('banana') != -1:
-        inStock.append(x.lower().find('instock'))
-        print(x)
-print(notFound)
+startIndex = 0
+instockIndexes = []
+for line in inputFile:
+    while line.lower().find('instock', startIndex) != -1:
+        instockIndexes.append(line.lower().find('instock'))
+        startIndex = line.lower().find('instock')
+
+
+    #for element in x: #looks at each character
+        #elements += 1
+#for x in range(200):
+#    print(inputFile[0][x])
+#    x += 1
+#print(inputFile[0][2])
 
 inputFile.close()
 
