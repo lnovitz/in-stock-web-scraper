@@ -39,9 +39,10 @@ inputFile = open('banana.txt', 'r') #read in the html
 startIndex = 0
 instockIndexes = []
 for line in inputFile:
-    while line.lower().find('instock', startIndex + 1) != -1:
-        instockIndexes.append(line.lower().find('instock'))
-        startIndex = line.lower().find('instock')
+    find = line.lower().find('instock', startIndex)
+    while find != -1:
+        instockIndexes.append(find)
+        startIndex = line.lower().find('instock') + 1
 
 
     #for element in x: #looks at each character
