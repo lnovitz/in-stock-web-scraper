@@ -53,7 +53,7 @@ def lookup(lookupText, filename):
     if len(lookup_list) == 1:
         return lookup_list[0]
     else:
-        return lookup_list
+        return lookup_list[0]
 
 def writePostLookup(lookupName, filename, newFileName):
     focusFile = open(newFileName, 'w')
@@ -98,3 +98,4 @@ def main():
     # the below command getColorInventory prints the color, size, and instock or not
     getColorInventory('peeled_banana.txt')
 
+main()
