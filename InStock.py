@@ -87,9 +87,8 @@ def writePostLookup(lookupName, filename, newFileName):
 
 
 with open('peeled_banana.txt', 'r') as f:
-    color = ['white']
+    color = ['white', 'black']
     for line in f:
-        #print(line)
         if line.startswith('colors'):
             for word in line.strip().split(':'):
                 if word in color:
@@ -98,12 +97,7 @@ with open('peeled_banana.txt', 'r') as f:
             for word in line.strip().split(':'):
                 if word.isdigit():
                     print('The size is: ',word, '\n')
-            #for i in range(8):
-                    #print(next(f))
-        #for word in line.strip().split(':'):
-        #    if word in color:
-                #print(word)
-    #elif line.startswith('sizedimension'):
-        #print(line)
-    #elif line.startswith('instock'):
-        #print(line)
+        if line.startswith('instock'):
+            for word in line.strip().split(':'):
+                if word in ['true', 'false']:
+                    print('Instock: ',word, '\n')
