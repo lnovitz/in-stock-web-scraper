@@ -44,7 +44,7 @@ def writeDict(readFile, outFile):
     for key in elementdict.keys():
         #need to append as we write data to file because of this for loop
         #print(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}',''))
-        writeMe(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}','') + ' ', outFile)
+        writeMe(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}','') + '\n', outFile)
     
 
 # the below writeDict command is only needed once to write the cleaned html to a text file
@@ -89,6 +89,7 @@ writePostLookup('colorgroup', 'banana_split.txt', 'peeled_banana.txt')
 with open('peeled_banana.txt', 'r') as f:
     color = ['white']
     for line in f:
+        print(line)
         if line.startswith('colors'):
             for i in range(8):
                     print(next(f))
