@@ -1,0 +1,3768 @@
+colorgroups:hasmarketingflag:true
+
+
+fullprice:id:color-group-regular-0
+
+
+price:regularmaxprice:119
+
+
+regularminprice:119
+
+
+currentmaxprice:119
+
+
+currentminprice:119
+
+
+maxpercentageoff:0
+
+
+minpercentageoff:0
+
+
+localizedcurrencysymbol:$
+
+
+mupmessage:null
+
+
+pricetype:1
+
+
+colors:colorname:white 
+
+
+marketingflag:40% off + extra savings applied at checkout
+
+
+instock:true
+
+
+url:/webcontent/0018/509/832/cn18509832.jpg
+
+
+sizes:backorderdate:null
+
+
+skuid:5480410120000
+
+
+upccode:500045122571
+
+
+reservable:true
+
+
+sizedimension1:0
+
+
+returntype:
+
+
+instock:true
+
+
+backorderdate:null
+
+
+skuid:5480410120002
+
+
+upccode:500045122595
+
+
+sizedimension1:2
+
+
+skuid:5480410120004
+
+
+upccode:500045122618
+
+
+sizedimension1:4
+
+
+skuid:5480410120006
+
+
+upccode:500045122632
+
+
+sizedimension1:6
+
+
+skuid:5480410120008
+
+
+upccode:500045122656
+
+
+sizedimension1:8
+
+
+skuid:5480410120010
+
+
+upccode:500045122670
+
+
+sizedimension1:10
+
+
+skuid:5480410120012
+
+
+upccode:500045122694
+
+
+sizedimension1:12
+
+
+skuid:5480410120014
+
+
+upccode:500045122717
+
+
+sizedimension1:14
+
+
+skuid:5480410120016
+
+
+upccode:500045306087
+
+
+sizedimension1:16
+
+
+instock:false
+
+
+skuid:5480410120018
+
+
+upccode:500045306100
+
+
+sizedimension1:18
+
+
+skuid:5480410120020
+
+
+upccode:500045306124
+
+
+sizedimension1:20
+
+
+instock:false
+
+
+findinstore:enabled:true
+
+
+exclusions:20
+
+
+localizedcurrentprice:$119.00
+
+
+localizedregularprice:$119.00
+
+
+rawcurrentprice:119
+
+
+rawregularprice:119
+
+
+pricetype:1
+
+
+percentageoff:
+
+
+partialmupmessage:null
+
+
+productstylecolorimages:548041012_main
+
+
+548041012_av1
+
+
+548041012_av2
+
+
+548041012_av3
+
+
+548041012_av4
+
+
+548041012_av5
+
+
+548041012_av6
+
+
+548041012_av7
+
+
+548041012_av9
+
+
+businesscatalogitemid:548041012
+
+
+markdown:
+
+
+dimensions:dimensiongroupid:sizedimension1
+
+
+label:size
+
+
+dimensions:name:0
+
+
+bopisinstock:false
+
+
+name:2
+
+
+name:4
+
+
+name:6
+
+
+name:8
+
+
+name:10
+
+
+name:12
+
+
+name:14
+
+
+name:16
+
+
+name:18
+
+
+name:20
+
+
+bopisinstock:false
+
+
+selecteddimension:
+
+
+mupmessage:
+
+
+gidmessage:
+
+
+productstylecolors:colorname:white 
+
+
+swatchimage:/webcontent/0018/509/832/cn18509832.jpg
+
+
+legacystylecolor:
+
+
+largeimagepath:/webcontent/0018/510/444/cn18510444.jpg
+
+
+businesscatalogitemid:548041012
+
+
+productimages:548041012_av1:thumbnail:https://www1.assets-gap.com/webcontent/0018/510/529/cn18510529.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/510/538/cn18510538.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/510/526/cn18510526.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/510/536/cn18510536.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/510/537/cn18510537.jpg
+
+
+548041012_av2:thumbnail:https://www1.assets-gap.com/webcontent/0018/510/542/cn18510542.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/510/556/cn18510556.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/510/540/cn18510540.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/510/539/cn18510539.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/510/533/cn18510533.jpg
+
+
+548041012_av3:thumbnail:https://www1.assets-gap.com/webcontent/0018/570/157/cn18570157.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/570/175/cn18570175.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/570/156/cn18570156.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/570/155/cn18570155.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/570/174/cn18570174.jpg
+
+
+548041012_av4:thumbnail:https://www1.assets-gap.com/webcontent/0018/570/176/cn18570176.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/570/161/cn18570161.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/570/159/cn18570159.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/570/158/cn18570158.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/570/160/cn18570160.jpg
+
+
+548041012_av5:thumbnail:https://www1.assets-gap.com/webcontent/0018/570/178/cn18570178.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/570/164/cn18570164.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/570/163/cn18570163.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/570/162/cn18570162.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/570/177/cn18570177.jpg
+
+
+548041012_av6:thumbnail:https://www1.assets-gap.com/webcontent/0018/523/159/cn18523159.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/523/160/cn18523160.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/523/157/cn18523157.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/523/156/cn18523156.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/523/158/cn18523158.jpg
+
+
+548041012_av7:thumbnail:https://www1.assets-gap.com/webcontent/0018/510/560/cn18510560.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/510/545/cn18510545.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/510/559/cn18510559.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/510/543/cn18510543.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/510/544/cn18510544.jpg
+
+
+548041012_av9:thumbnail:https://www1.assets-gap.com/webcontent/0018/422/441/cn18422441.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/422/442/cn18422442.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/422/440/cn18422440.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/422/462/cn18422462.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/422/463/cn18422463.jpg
+
+
+video:https://www1.assets-gap.com/webcontent/0018/422/464/cn18422464.mp4
+
+
+548041012_main:thumbnail:https://www1.assets-gap.com/webcontent/0018/510/393/cn18510393.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/510/392/cn18510392.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/510/444/cn18510444.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/510/446/cn18510446.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/510/450/cn18510450.jpg
+
+
+548041002_main:thumbnail:https://www1.assets-gap.com/webcontent/0018/558/932/cn18558932.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/558/931/cn18558931.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/558/927/cn18558927.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/558/947/cn18558947.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/558/930/cn18558930.jpg
+
+
+crosssellinfo:
+
+
+colorlabel:color
+
+
+currencycode:usd
+
+
+currentcolormainimage:/webcontent/0018/510/444/cn18510444.jpg
+
+
+categoryid:null
+
+
+primarycategoryid:69883
+
+
+reserveinstore:true
+
+
+customerreviews:true
+
+
+bvreviewsenabledflag:true
+
+
+hassupprice:false
+
+
+producttitle:poplin shirt dress
+
+
+mupmessage:null
+
+
+priceadapter:regularmaxprice:119
+
+
+selectedvariant:id:1
+
+
+businesscatalogitemid:548041012
+
+
+selectedcolor:colorname:white 
+
+
+businesscatalogitemid:548041012
+
+
+selectedsize:
+
+
+isreserveinstore:true
+
+
+unselectedlabels:size
+
+
+disabledcomponentfis:true
+
+
+childcategoryproductdata:
+
+
+contentdata:sitewide:topnav:data:isnavsticky:true
+
+
+title:poplin shirt dress | banana republic
+
+
+description:shop banana republic\'s poplin shirt dress: coffee to cocktails. this classic shirtdress is made in our super stretch cotton poplin for a flattering
+
+
+ comfortable fit.
+
+
+ point collar. long sleeves with button cuffs.
+
+
+ button front. belted waist.
+
+
+ lined skirt
+
+
+ unlined bodice.
+
+
+ produced in a facility that runs p.a.c.e. â\x80\x93 gap inc.\'s program to educate and empower women in the communities where our products are made. learn more here
+
+
+canonicalurl:https://bananarepublic.gap.com/browse/product.do?pid=548041
+
+
+ogmetadata:sitename:banana republic
+
+
+type:product
+
+
+image:/webcontent/0018/510/444/cn18510444.jpg
+
+
+imagealt:poplin shirt dress
+
+
+astags:\\n    <meta property=\\og:type\\ content=\\product\\ />\\n    <meta property=\\og:site_name\\ content=\\banana republic\\ />\\n    <meta property=\\og:image\\ content=\\https://bananarepublic.gap.com/webcontent/0018/510/444/cn18510444.jpg\\ />\\n    <meta property=\\og:image:alt\\ content=\\poplin shirt dress\\ />\\n  
+
+
+breadcrumbs:category:name:dresses
+
+
+url:/browse/category.do?cid=69883&bc=true
+
+
+division:name:women
+
+
+url:/browse/division.do?cid=5002&bc=true
+
+
+seopageschema:\\@context\\:\\https://schema.org\\
+
+
+\\@type\\:\\product\\
+
+
+\\name\\:\\poplin shirt dress\\
+
+
+\\description\\:\\coffee to cocktails. this classic shirtdress is made in our super stretch cotton poplin for a flattering
+
+
+ unlined bodice. produced in a facility that runs p.a.c.e. â\x80\x93 gap inc.\'s program to educate and empower women in the communities where our products are made. learn more <a href=\\\\\\https://bananarepublic.com/pace\\\\\\>here</a>\\
+
+
+\\productid\\:\\548041\\
+
+
+\\brand\\:\\@type\\:\\thing\\
+
+
+\\name\\:\\banana republic\\
+
+
+\\offers\\:\\@type\\:\\offer\\
+
+
+\\price\\:\\119.00\\
+
+
+\\pricecurrency\\:\\usd\\
+
+
+\\itemcondition\\:\\https://schema.org/newcondition\\
+
+
+\\availability\\:\\https://schema.org/instock\\
+
+
+\\itemoffered\\:\\@type\\:\\individualproduct\\
+
+
+\\brand\\:\\banana republic\\
+
+
+\\color\\:\\white \\
+
+
+\\sku\\:\\5480410120000\\
+
+
+\\image\\:\\https://bananarepublic.gap.com/webcontent/0018/510/444/cn18510444.jpg\\
+
+
+\\seller\\:\\@type\\:\\organization\\
+
+
+\\url\\:\\https://bananarepublic.gap.com/browse/product.do?pid=548041\\
+
+
+\\@type\\:\\offer\\
+
+
+\\sku\\:\\5480410120002\\
+
+
+\\sku\\:\\5480410120004\\
+
+
+\\sku\\:\\5480410120006\\
+
+
+\\sku\\:\\5480410120008\\
+
+
+\\sku\\:\\5480410120010\\
+
+
+\\sku\\:\\5480410120012\\
+
+
+\\sku\\:\\5480410120014\\
+
+
+\\availability\\:\\https://schema.org/outofstock\\
+
+
+\\sku\\:\\5480410120016\\
+
+
+\\sku\\:\\5480410120018\\
+
+
+\\sku\\:\\5480410120020\\
+
+
+\\url\\:\\https://bananarepublic.gap.com/browse/product.do?pid=548041\\
+
+
+\\@context\\:\\https://schema.org\\
+
+
+\\@type\\:\\breadcrumblist\\
+
+
+\\itemlistelement\\:\\@type\\:\\listitem\\
+
+
+\\position\\:1
+
+
+\\item\\:\\@id\\:\\https:///browse/division.do?cid=5002&bc=true\\
+
+
+\\name\\:\\women\\
+
+
+\\@type\\:\\listitem\\
+
+
+\\position\\:2
+
+
+\\item\\:\\@id\\:\\https:///browse/category.do?cid=69883&bc=true\\
+
+
+\\name\\:\\dresses\\
+
+
+selectednodes:
+
+
+htmllangattribute:lang=\\en-us\\
+
+
+brandinformation:abbrbrand:br
+
+
+abbrnameforbv:br
+
+
+abbrnamefortealium:br
+
+
+brand:banana-republic
+
+
+displayname:banana republic
+
+
+marketagnosticbrandcode:2
+
+
+marketawarebrandcode:2
+
+
+enabledfeatures:productstyle-service-us-br:true
+
+
+productstyle-service-us-hc:true
+
+
+productstyle-service-us-on:true
+
+
+productstyle-service-us-at:true
+
+
+productstyle-service-us-gap:true
+
+
+navigation-service-us-gap:true
+
+
+navigation-service-us-on:true
+
+
+navigation-service-us-hc:true
+
+
+navigation-service-us-at:true
+
+
+navigation-service-us-br:true
+
+
+hc:true
+
+
+breadcrumbs-hc:true
+
+
+bopis-us-on:true
+
+
+react-personalization-polling:true
+
+
+bopis-category:true
+
+
+stylitics-us-br:true
+
+
+stylitics-us-gap:true
+
+
+stylitics-us-at:true
+
+
+stylitics-us-on:true
+
+
+true-fit-us-on:true
+
+
+department-facet-hide-us-hc:true
+
+
+department-facet-hide-us-gap:true
+
+
+pdp-recommendations-us-hc:true
+
+
+pdp-recommendations-us-on:true
+
+
+pdp-recommendations-us-br:true
+
+
+pdp-recommendations-us-at:true
+
+
+pdp-recommendations-us-gap:true
+
+
+left-rail-facet-on-us:true
+
+
+left-rail-facet-gap-us:true
+
+
+left-rail-facet-br-us:true
+
+
+left-rail-facet-hc-us:true
+
+
+scroll-to-top-category-us-hc:true
+
+
+left-rail-facet-at-us:true
+
+
+scroll-to-top-search-us-hc:true
+
+
+productdiscovery-service:true
+
+
+pdp-redesign-us-br:true
+
+
+pdp-redesign-us-gap:true
+
+
+pdp-redesign-us-hc:true
+
+
+pdp-redesign-us-at:true
+
+
+pdp-redesign-us-on:true
+
+
+pdp-sizeinclusivity-us-on:true
+
+
+pdp-bricks-us-on:true
+
+
+sort-by-br-us:true
+
+
+sort-by-gap-us:true
+
+
+sort-by-on-us:true
+
+
+pdp-redesign-mobile-carousel-us-on:true
+
+
+pdp-redesign-desktop-drawer-us-br:true
+
+
+pdp-redesign-mobile-carousel-us-at:true
+
+
+pdp-redesign-desktop-drawer-us-on:true
+
+
+pdp-redesign-mobile-carousel-us-br:true
+
+
+pdp-bricks-us-br:true
+
+
+pdp-redesign-desktop-drawer-us-gap:true
+
+
+true-fit-us-at:true
+
+
+pdp-redesign-mobile-carousel-us-gap:true
+
+
+pdp-redesign-desktop-drawer-us-at:true
+
+
+true-fit-us-gap:true
+
+
+true-fit-us-br:true
+
+
+pdp-bricks-us-gap:true
+
+
+pdp-bricks-us-hc:true
+
+
+left-rail-mobile-facet-br-us:true
+
+
+left-rail-mobile-facet-on-us:true
+
+
+left-rail-mobile-facet-hc-us:true
+
+
+left-rail-mobile-facet-gap-us:true
+
+
+left-rail-mobile-facet-at-us:true
+
+
+cross-link-categories-br:true
+
+
+cross-link-categories-gap:true
+
+
+cross-link-categories-on:true
+
+
+cross-link-categories-at:true
+
+
+cross-link-categories-hc:true
+
+
+bopis-us-br:true
+
+
+bopis-us-at:true
+
+
+division-pages-on:true
+
+
+mobile-sticky-brand-bar:true
+
+
+search-bloomreach:true
+
+
+autosuggest-bloomreach:true
+
+
+pdp-photo-carousel-slick:true
+
+
+pas-us-at:true
+
+
+pas-us-br:true
+
+
+stylitics-ca-br:true
+
+
+stylitics-ca-on:true
+
+
+stylitics-ca-gap:true
+
+
+use-external-customerid-us-on:true
+
+
+use-external-customerid-us-at:true
+
+
+pdp-recommendations-ca-gap:true
+
+
+pdp-redesign-desktop-drawer-ca-gap:true
+
+
+pdp-redesign-ca-br:true
+
+
+pdp-redesign-ca-gap:true
+
+
+pdp-recommendations-ca-on:true
+
+
+pdp-redesign-ca-on:true
+
+
+pdp-redesign-mobile-carousel-ca-br:true
+
+
+pdp-redesign-mobile-carousel-ca-gap:true
+
+
+pdp-recommendations-ca-br:true
+
+
+pdp-redesign-desktop-drawer-ca-on:true
+
+
+pdp-redesign-desktop-drawer-ca-br:true
+
+
+use-external-customerid-us-gap:true
+
+
+pdp-redesign-mobile-carousel-ca-on:true
+
+
+use-external-customerid-us-br:true
+
+
+pdp-hide-shipping-us-brfs:true
+
+
+pdp-hide-shipping-us-gapfs:true
+
+
+pdp-recommendations-us-gapfs:true
+
+
+cat-breadcrumb-hc:true
+
+
+pdp-recommendations-us-brfs:true
+
+
+cat-breadcrumb-br:true
+
+
+cat-breadcrumb-on:true
+
+
+cat-breadcrumb-at:true
+
+
+cat-breadcrumb-gap:true
+
+
+stylitics-us-brfs:true
+
+
+curbside-us-on:true
+
+
+curbside-us-at:true
+
+
+cat-alt-view-us-br:true
+
+
+curbside-us-br:true
+
+
+bag-ui-applepay:true
+
+
+department-facet-hide-us-gapfs:true
+
+
+use-external-customerid-us-brfs:true
+
+
+productstyle-service-ca-on:true
+
+
+cross-link-categories-brfs:true
+
+
+use-external-customerid-us-gapfs:true
+
+
+productstyle-service-us-gapfs:true
+
+
+bopis-curbside-us-at:true
+
+
+cross-link-categories-gapfs:true
+
+
+productstyle-service-ca-gap:true
+
+
+productstyle-service-us-brfs:true
+
+
+bopis-curbside-us-on:true
+
+
+bopis-curbside-us-br:true
+
+
+productstyle-service-ca-br:true
+
+
+featurevariables:pdp-bricks-us-gap:primarycategoryid:5664
+
+
+6998
+
+
+6189
+
+
+6276
+
+
+pdp-bricks-us-on:primarycategoryid:85729
+
+
+pdp-bricks-us-br:primarycategoryid:69883
+
+
+67595
+
+
+1107488
+
+
+5030
+
+
+87056
+
+
+5032
+
+
+99915
+
+
+5013
+
+
+28660
+
+
+1016720
+
+
+44873
+
+
+75310
+
+
+32643
+
+
+35878
+
+
+5389
+
+
+1072457
+
+
+70016
+
+
+5170
+
+
+24906
+
+
+5176
+
+
+15227
+
+
+40926
+
+
+1107608
+
+
+pdp-bricks-us-hc:primarycategoryid:all
+
+
+bopis-us-on:fulfillmentdisplay:true
+
+
+bopis-us-at:fulfillmentdisplay:true
+
+
+bopis-us-br:fulfillmentdisplay:true
+
+
+appconfig:bazaarvoiceapiurl:https://apps.bazaarvoice.com/deployments/gap/br_us/production/en_us/bv.js
+
+
+brandcodeurls:secureurl:https://secure-bananarepublic.gap.com
+
+
+unsecureurl:http://bananarepublic.gap.com
+
+
+commonhost:bananarepublic.gap.com
+
+
+translations:en-us:translation:pdp.currencysymbol:$
+
+
+pdp.product.sale:sale
+
+
+pdp.technicalerror:we&apos;re having a technical problem on this page. refresh the page and try your selection again or find another product.
+
+
+pdp.closemodal.alttext:close modal
+
+
+pdp.quantityselector.title:quantity
+
+
+pdp.quantitygroup.arialabel:select a quantity
+
+
+pdp.addtobag.errormessage:we&apos;re experiencing a technical problem and this item cannot be added to bag. please refresh the page or try again later. if the problem persists
+
+
+ customer service can help you at 1-800-427-7895.
+
+
+pdp.addtobag.text:add to bag
+
+
+pdp.addtobag.arialabel:add to bag. this button will add the item to your bag and open a dialog window. after opening press tab to move context to dialog.
+
+
+pdp.buybox.errormessage.generalerror:we&apos;re having a technical problem on this page. refresh the page and try your selection again or find another product.
+
+
+pdp.buybox.errormessage.onbackorder:on back order - est. shipping date
+
+
+pdp.buybox.errormessage.onbackorder.arialabel:on back order. estimated shipping date is
+
+
+pdp.buybox.mergedvariantmessage:will take you to a new product page
+
+
+pdp.pricenow:now
+
+
+pdp.modal.opens:launches a dialog window.
+
+
+pdp.drawer.openbutton:opens drawer
+
+
+pdp.drawer.closebutton:close drawer
+
+
+pdp.availabilitymessageinline.text:
+
+
+pdp.availabilitymessageshipto.shipto:ship to an address
+
+
+pdp.availabilitymessageshipto.availableshipto:available - ship to an address
+
+
+pdp.availabilitymessageshipto.unavailableshipto:unavailable - ship to an address
+
+
+pdp.availabilitymessageshipto.freemin:free ($50 min)
+
+
+pdp.fulfillmentmethod.arialabel:select a fulfillment method.
+
+
+pdp.fulfillmentmethod.selectastore:select a store to check pickup in-store product availability
+
+
+pdp.fulfillmentmethod.shipfree:ship to an address - free ($50 min)
+
+
+pdp.fulfillmentmethod.orderby:order by 4pm to get it today
+
+
+pdp.fulfillmentmethod.maplinkarialabel:directions to store.storename - store.storedistance miles away
+
+
+ opens in a new tab
+
+
+pdp.fulfillmentmethod.curbside.selectastore:select a store to check curbside pickup product availability
+
+
+pdp.fulfillmentmethod.bopisandcurbside.selectastore:select a store to check product availability
+
+
+pdp.variantgrouplabel:variants
+
+
+pdp.colorpickergrouplabel:color
+
+
+pdp.colorlabel:color
+
+
+pdp.sizelabel:size
+
+
+pdp.continueshoppingbutton.buttontext:continue shopping
+
+
+pdp.customerinformationform.firstnamelabel:first name
+
+
+pdp.customerinformationform.firstnameerror:enter a first name.
+
+
+pdp.customerinformationform.lastnamelabel:last name
+
+
+pdp.customerinformationform.lastnameerror:enter a last name.
+
+
+pdp.customerinformationform.emaillabel:email address
+
+
+pdp.customerinformationform.emailerror:enter a valid email address.
+
+
+pdp.reservationcancel.arialabel:cancel reservation and exit find in store dialog window
+
+
+pdp.emailsignupcheckbox:sign up for our emails to get first dibs on new arrivals
+
+
+ can\'t miss deals and more.
+
+
+pdp.finditnow.text:find it now
+
+
+pdp.finditnow.storelist.errormessage:we couldn\'t find a store that matched your criteria. please try again.
+
+
+pdp.finditnow.storeselectbutton.arialabel:reserve this item at the storename store
+
+
+pdp.finditnow.reserveinstore:reserve in store
+
+
+pdp.finditnow.holdonline:hold online. ready in stores.
+
+
+pdp.finditnow.finditnowarialabel:find it now. this button will open a dialog window. after opening press tab to move context to dialog.
+
+
+pdp.finditnow.selection.error.needssizes:please select a size to see store availability.
+
+
+pdp.finditnow.selection.error.needszipcode:please enter a zip code to see store availability.
+
+
+pdp.finditnow.selection.error.nostoresfound:we couldn\'t find a store that matched your criteria. please try again.
+
+
+pdp.finditnow.selection.error.invalidzipcode:your current zip code is zipcode. storeslength stores have been listed below based on this zip code. if youâ\x80\x99d like to change the zip code
+
+
+ please enter a valid 5-digit zip code.
+
+
+pdp.finditnow.selection.error.unknown:sorry
+
+
+ something went wrong. please try again.
+
+
+pdp.finditnow.selection.error.zipcode:please enter a 5-digit zip code.
+
+
+pdp.finditnow.selection.label.color:color
+
+
+pdp.finditnow.selection.label.productid:product id: #styleid
+
+
+pdp.finditnow.selection.label.zipcode:zip code
+
+
+pdp.finditnow.selection.label.storedistance:storedistance miles
+
+
+pdp.finditnow.selection.postalcodeinput.arialabel:search zip code to find store availability. stores will populate after a valid 5 digit code is entered
+
+
+pdp.finditnow.selection.inventory.available:available
+
+
+pdp.finditnow.selection.inventory.limited:limited supply
+
+
+pdp.finditnow.selection.inventory.unavailable:unavailable
+
+
+pdp.findinstore.reserve:reserve in store
+
+
+pdp.findinstore.hold:hold online. ready in store.
+
+
+pdp.findinstore.launchmodal.arialabel:find it now will launch a window dialog to help you find out if this item is available to reserve at a store near you for pickup.
+
+
+pdp.findinstore.modal.title:find it now
+
+
+pdp.findinstore.changestorebutton.buttontext:change store
+
+
+pdp.photocarousel.altimages.productimagealttext:view large product image imagenumber of imagestotal
+
+
+pdp.photocarousel.altimages.productvideoalttext:view product video
+
+
+pdp.photocarousel.imagealttext:product color detail
+
+
+pdp.photocarousel.modelsizetext:size size model
+
+
+pdp.photobrick.photobrickalttext:image number imagenumber showing
+
+
+ producttitle
+
+
+pdp.photobrick.imagesshowingproducttitle:images showing producttitle
+
+
+pdp.modelsizeselector.text:model size selector
+
+
+pdp.modelsizeselector.seeon:see on
+
+
+pdp.modelsizeselector.buttonlabel:see on size
+
+
+pdp.modelsizeselectorslider.textlineone:model is
+
+
+pdp.modelsizeselectorslider.textlinetwo:size size
+
+
+pdp.modelsizeselectorslider.buttonlabel:see on size size model
+
+
+pdp.recommendedproduct.price:currencysymbolprice
+
+
+pdp.recommendedproduct.percentoff:percentage% off
+
+
+pdp.recommendedproduct.newprice:now currencysymbolprice
+
+
+pdp.swatchlabel.arialabel:current selected label is value
+
+
+pdp.sizeguide:size guide
+
+
+pdp.sizeguide.fitandsizing:fit & sizing - opens drawer
+
+
+pdp.insitu.title.altaddedtobag:product added to bag
+
+
+pdp.insitu.title.addtobag:added to your bag
+
+
+pdp.insitu.label.color:color
+
+
+pdp.insitu.label.size:size
+
+
+pdp.insitu.label.qty:qty
+
+
+pdp.insitu.label.pickup:pickup in-store
+
+
+pdp.insitu.label.curbside.pickup:curbside pickup
+
+
+pdp.insitu.oneiteminbag:1 item in bag
+
+
+pdp.insitu.multipleitemsinbag:items in bag
+
+
+pdp.insitu.noreturns:no returns â\x80\x93 final sale item
+
+
+pdp.insitu.returnsbymailonly:return by mail only
+
+
+pdp.insitu.label.subtotal:subtotal
+
+
+pdp.insitu.button.keepshopping:keep shopping
+
+
+pdp.insitu.button.checkout:checkout
+
+
+pdp.reservationview.errormessage:we are currently experiencing technical difficulties. please try again later or call us for assistance.
+
+
+pdp.reservationview.contactinfo:please enter your contact information
+
+
+pdp.reservationview.confirmation:weâ\x80\x99ll confirm when we locate your item
+
+
+ usually within an hour of the request.
+
+
+pdp.productdetails.tablist.title:product details
+
+
+pdp.productdetails.slide.detailsheading:details
+
+
+pdp.productdetails.slide.additionaldetails:additional details
+
+
+pdp.productinfotabs.tablistlabel:product information
+
+
+pdp.reviews.title.text:reviews
+
+
+pdp.reviews.title.text-singular:review
+
+
+pdp.reviews.accordion.trigger.ariaopentext:open the reviews accordion
+
+
+pdp.reviews.accordion.trigger.ariaclosetext:close the reviews accordion
+
+
+pdp.writereview.text:write a review
+
+
+pdp.availabilitymessagepickup.freepickup:pickup in-store
+
+
+pdp.availabilitymessagepickup.pickupcost:free
+
+
+pdp.availabilitymessagepickup.getittodaytext:order by 4pm to get it today
+
+
+pdp.availabilitymessagepickup.selectionunavailable:your selection is unavailable in this store
+
+
+pdp.availabilitymessagepickup.curbside.freepickup:curbside pickup
+
+
+pdp.availabilitymessagepickup.curbside.pickupcost:free
+
+
+pdp.availabilitymessagepickup.curbside.getittodaytext:order before 2pm to pickup today
+
+
+pdp.availabilitymessagepickup.bopisandcurbside.getittodaytext:order before 2pm to pick up today
+
+
+pdp.availabilitymessagepickup.curbside.freepickup.everythingbagel:pickup
+
+
+pdp.availabilitymessagepickup.curbside.freepickup.closedwithcurbside:curbside pickup
+
+
+pdp.availabilitymessagepickup.curbside.freepickup.openwithbopis:in-store pickup
+
+
+pdp.storelocator.confirmationthanks:thanks
+
+
+pdp.storelocator.confirmationrequestreceived:your request has been sent.
+
+
+pdp.storelocator.confirmationlookingforitem:we\'re looking for your item now.
+
+
+pdp.storelocator.confirmationtimetext:we\'ll confirm your item is ready
+
+
+ usually within an hour.
+
+
+pdp.storelocator.confirmationemailtext:review the email we sent you to see where to go in the store to pick up your items.
+
+
+pdp.storelocator.confirmationbagtext:we\'ll hold your item until closing time.
+
+
+pdp.storelocator.legalpleasenote:please note: product location information is updated every 20-30 minutes.
+
+
+pdp.storelocator.legaltext:in-store prices may vary and may differ from online prices.
+
+
+pdp.storelocator.reservationpleasenote:please note: you can reserve five items daily.
+
+
+pdp.storelocator.reservationcopytext:after we confirm an item is available
+
+
+ we hold it until the store closes the following day. prices in store may differ from prices online.
+
+
+pdp.categoryrecommendationscarousel.heading:you might also like
+
+
+pdp.stylitics.wearitwith:wear it with
+
+
+pdp.shippingandreturns.title:shipping & returns
+
+
+pdp.shippingandreturns.returntitle:returns
+
+
+pdp.shippingandreturns.shippingtitle:shipping
+
+
+pdp.shippingandreturns.returnbymail:returns by mail only
+
+
+pdp.shippingandreturns.freeshipping:free on orders of $50 or more<br/><em>select the \'free\' option</em>
+
+
+pdp.shippingandreturns.flatrate:$7 flat rate for orders under $50
+
+
+pdp.shippingandreturns.learnmore:learn more
+
+
+pdp.shippingandreturns.freereturns:free returns and exchanges on all orders
+
+
+pdp.shippingandreturns.freereturnsbymail:free returns by mail and in store
+
+
+pdp.shippingandreturns.finalsalereturns:no returns or exchanges on final sale items
+
+
+pdp.shippingandreturns.instorereturns:in store: with shipping confirmation email (printed or on mobile device) and card used for purchase
+
+
+pdp.shippingandreturns.noreturns:no returns - final sale item
+
+
+pdp.shippingandreturns.mailreturns.brfs:$5.95 returns/exchanges by mail
+
+
+pdp.shippingandreturns.returnsexchange:free returns  in store &amp; $5.95 returns/exchanges by mail
+
+
+pdp.shippingandreturns.freeshipping.brfs:free shipping on all orders of  $50 or more<br/><em>select  the \\free\\ option in the shopping bag</em>
+
+
+pdp.shippingandreturns.mailreturns.br:by mail: to create a prepaid ups or usps return shipping label
+
+
+ use our <a href=\\https://returns.narvar.com/bananarepublic/returns\\ target=\\_new\\>interactive returns process</a>
+
+
+pdp.shippingandreturns.mailreturns.gap:by mail: to create a prepaid ups or usps return shipping label
+
+
+ use our <a href=\\https://returns.narvar.com/gap/returns\\ target=\\_new\\>interactive returns process</a>
+
+
+pdp.shippingandreturns.mailreturns.at:by mail: to create a prepaid ups or usps return shipping label
+
+
+ use our <a href=\\https://returns.narvar.com/athleta/returns\\ target=\\_new\\>interactive returns process</a>
+
+
+pdp.shippingandreturns.mailreturns.hc:by mail: to create a prepaid ups or usps return shipping label
+
+
+ use our <a href=\\https://returns.narvar.com/hillcity/returns\\ target=\\_new\\>interactive returns process</a>
+
+
+pdp.shippingandreturns.mailreturns.hc.on:by mail: to create a prepaid ups or usps return shipping label
+
+
+ use our <a href=\\https://returns.narvar.com/oldnavy/returns\\ target=\\_new\\>interactive returns process</a>
+
+
+pdp.shippingandreturns.freereturns.brfs:free returns/exchanges by mail and to stores
+
+
+pdp.shippingandreturns.freereturns.hc:free returns and exchanges on all orders
+
+
+pdp.shippingandreturns.freereturnsbymail.hc:free returns by mail and in store
+
+
+core.currency:currencyvalue
+
+
+ currency.usd
+
+
+price.current_price_range_aria_label:now minprice to maxprice
+
+
+price.now_current_price:now price
+
+
+price.percentage_off:value% off
+
+
+price.regular_price_aria_label:was price
+
+
+price.regular_price_range_aria_label:was minprice to maxprice
+
+
+pdp.price.currentpricerangearialabel:now minprice to maxprice
+
+
+pdp.price.nowcurrentprice:now price
+
+
+pdp.price.percentageoff:value% off
+
+
+pdp.price.regularpricearialabel:was price
+
+
+pdp.price.regularpricerangearialabel:was minprice to maxprice
+
+
+changestoremodal.postcodevalidationerror:please enter a 5-digit zip code.
+
+
+changestoremodal.nostorematch:we couldn\'t find a store that matched your criteria. please try again.
+
+
+changestoremodal.pickupunavailable:pickup in-store is unavailable. please try again later.
+
+
+changestoremodal.selectstorecheckavailability:select a store to check pickup in-store product availability.
+
+
+changestoremodal.curbside.selectstorecheckavailability:select a store to check curbside pickup product availability.
+
+
+changestoremodal.bopisandcurbside.selectstorecheckavailability:select a store to check product availability.
+
+
+changestoremodal.curbside.pickupunavailable:curbside pickup is unavailable. please try again later.
+
+
+pdp.fulfilment.curbsidelabel.everythingbagel:curbside and in-store pickup available
+
+
+pdp.fulfilment.curbsidelabel.closedwithcurbside:in-store shopping unavailable at this store
+
+
+pdp.fulfilment.curbsidelabel.openwithbopis:curbside pickup unavailable at this store
+
+
+changestoremodal.store.instore:in-store pickup only
+
+
+changestoremodal.store.curbside:curbside pickup only
+
+
+changestoremodal.store.instoreandcurbside:curbside and in-store pickup
+
+
+productsubcategories:
+
+
+env:prod
+
+
+shippingandreturnsjson:\\localizedtitle\\:\\pdp.shippingandreturns.title\\
+
+
+\\localizedreturntitle\\:\\pdp.shippingandreturns.returntitle\\
+
+
+\\localizedshippingtitle\\:\\pdp.shippingandreturns.shippingtitle\\
+
+
+\\localizedshippinginformation\\:\\pdp.shippingandreturns.freeshipping\\
+
+
+\\pdp.shippingandreturns.flatrate\\
+
+
+\\normalreturns\\:\\localizedlinklist\\:\\text\\:\\pdp.shippingandreturns.learnmore\\
+
+
+\\url\\:\\/asset_archive/gpweb/content/static-marketing/xbrand-edfs-content/edfslegal-br-narvar.html\\
+
+
+\\localizedreturnsubheading\\:\\\\
+
+
+\\localizedreturninformation\\:\\pdp.shippingandreturns.freereturns\\
+
+
+\\pdp.shippingandreturns.finalsalereturns\\
+
+
+\\pdp.shippingandreturns.mailreturns.br\\
+
+
+\\pdp.shippingandreturns.instorereturns\\
+
+
+\\mailonlyreturns\\:\\localizedlinklist\\:\\text\\:\\pdp.shippingandreturns.learnmore\\
+
+
+\\localizedreturnsubheading\\:\\pdp.shippingandreturns.returnbymail\\
+
+
+\\pdp.shippingandreturns.mailreturns.br\\
+
+
+\\freereturns\\:\\localizedlinklist\\:\\text\\:\\pdp.shippingandreturns.learnmore\\
+
+
+\\localizedreturnsubheading\\:\\pdp.shippingandreturns.freereturnsbymail\\
+
+
+\\noreturns\\:\\localizedlinklist\\:\\text\\:\\pdp.shippingandreturns.learnmore\\
+
+
+\\localizedreturnsubheading\\:\\pdp.shippingandreturns.noreturns\\
+
+
+\\localizedreturninformation\\:\\pdp.shippingandreturns.freereturns\\;\n      '
+
+
+ '\n        var buildversions = \n          version: dc367005
+
+
+\n          marketinguiversion: ^20.3.4\n        ;\n        if (window.gap) \n          if (window.gap.buildversion) \n            window.gap.buildversionproduct-page = buildversions;\n           else \n            window.gap.buildversion =  product-page: buildversions \n          \n         else \n          window.gap =  buildversion:  product-page: buildversions  \n        \n        if (window.newrelic) \n          window.newrelic.setcustomattribute(product-page-version
+
+
+ var _cf = _cf || ; _cf.push('_setfsp'
+
+
+ true);  _cf.push('_setbm'
+
+
+ true); _cf.push('_setau'
+
+
+ '/resources/b67b9209f31701989ce71bd4c792fc'); 
+
+
+ '\n  '
+
+
+colorgroups:hasmarketingflag:true
+
+
+fullprice:id:color-group-regular-0
+
+
+price:regularmaxprice:119
+
+
+regularminprice:119
+
+
+currentmaxprice:119
+
+
+currentminprice:119
+
+
+maxpercentageoff:0
+
+
+minpercentageoff:0
+
+
+localizedcurrencysymbol:$
+
+
+mupmessage:null
+
+
+pricetype:1
+
+
+colors:colorname:white 
+
+
+marketingflag:40% off + extra savings applied at checkout
+
+
+instock:true
+
+
+url:/webcontent/0018/509/832/cn18509832.jpg
+
+
+sizes:backorderdate:null
+
+
+skuid:5480410120000
+
+
+upccode:500045122571
+
+
+reservable:true
+
+
+sizedimension1:0
+
+
+returntype:
+
+
+instock:true
+
+
+backorderdate:null
+
+
+skuid:5480410120002
+
+
+upccode:500045122595
+
+
+sizedimension1:2
+
+
+skuid:5480410120004
+
+
+upccode:500045122618
+
+
+sizedimension1:4
+
+
+skuid:5480410120006
+
+
+upccode:500045122632
+
+
+sizedimension1:6
+
+
+skuid:5480410120008
+
+
+upccode:500045122656
+
+
+sizedimension1:8
+
+
+skuid:5480410120010
+
+
+upccode:500045122670
+
+
+sizedimension1:10
+
+
+skuid:5480410120012
+
+
+upccode:500045122694
+
+
+sizedimension1:12
+
+
+skuid:5480410120014
+
+
+upccode:500045122717
+
+
+sizedimension1:14
+
+
+skuid:5480410120016
+
+
+upccode:500045306087
+
+
+sizedimension1:16
+
+
+instock:false
+
+
+skuid:5480410120018
+
+
+upccode:500045306100
+
+
+sizedimension1:18
+
+
+skuid:5480410120020
+
+
+upccode:500045306124
+
+
+sizedimension1:20
+
+
+instock:false
+
+
+findinstore:enabled:true
+
+
+exclusions:20
+
+
+localizedcurrentprice:$119.00
+
+
+localizedregularprice:$119.00
+
+
+rawcurrentprice:119
+
+
+rawregularprice:119
+
+
+pricetype:1
+
+
+percentageoff:
+
+
+partialmupmessage:null
+
+
+productstylecolorimages:548041012_main
+
+
+548041012_av1
+
+
+548041012_av2
+
+
+548041012_av3
+
+
+548041012_av4
+
+
+548041012_av5
+
+
+548041012_av6
+
+
+548041012_av7
+
+
+548041012_av9
+
+
+businesscatalogitemid:548041012
+
+
+markdown:
+
+
+dimensions:dimensiongroupid:sizedimension1
+
+
+label:size
+
+
+dimensions:name:0
+
+
+bopisinstock:false
+
+
+name:2
+
+
+name:4
+
+
+name:6
+
+
+name:8
+
+
+name:10
+
+
+name:12
+
+
+name:14
+
+
+name:16
+
+
+name:18
+
+
+name:20
+
+
+bopisinstock:false
+
+
+selecteddimension:
+
+
+mupmessage:
+
+
+gidmessage:
+
+
+productstylecolors:colorname:white 
+
+
+swatchimage:/webcontent/0018/509/832/cn18509832.jpg
+
+
+legacystylecolor:
+
+
+largeimagepath:/webcontent/0018/510/444/cn18510444.jpg
+
+
+businesscatalogitemid:548041012
+
+
+productimages:548041012_av1:thumbnail:https://www1.assets-gap.com/webcontent/0018/510/529/cn18510529.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/510/538/cn18510538.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/510/526/cn18510526.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/510/536/cn18510536.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/510/537/cn18510537.jpg
+
+
+548041012_av2:thumbnail:https://www1.assets-gap.com/webcontent/0018/510/542/cn18510542.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/510/556/cn18510556.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/510/540/cn18510540.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/510/539/cn18510539.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/510/533/cn18510533.jpg
+
+
+548041012_av3:thumbnail:https://www1.assets-gap.com/webcontent/0018/570/157/cn18570157.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/570/175/cn18570175.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/570/156/cn18570156.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/570/155/cn18570155.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/570/174/cn18570174.jpg
+
+
+548041012_av4:thumbnail:https://www1.assets-gap.com/webcontent/0018/570/176/cn18570176.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/570/161/cn18570161.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/570/159/cn18570159.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/570/158/cn18570158.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/570/160/cn18570160.jpg
+
+
+548041012_av5:thumbnail:https://www1.assets-gap.com/webcontent/0018/570/178/cn18570178.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/570/164/cn18570164.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/570/163/cn18570163.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/570/162/cn18570162.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/570/177/cn18570177.jpg
+
+
+548041012_av6:thumbnail:https://www1.assets-gap.com/webcontent/0018/523/159/cn18523159.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/523/160/cn18523160.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/523/157/cn18523157.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/523/156/cn18523156.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/523/158/cn18523158.jpg
+
+
+548041012_av7:thumbnail:https://www1.assets-gap.com/webcontent/0018/510/560/cn18510560.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/510/545/cn18510545.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/510/559/cn18510559.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/510/543/cn18510543.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/510/544/cn18510544.jpg
+
+
+548041012_av9:thumbnail:https://www1.assets-gap.com/webcontent/0018/422/441/cn18422441.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/422/442/cn18422442.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/422/440/cn18422440.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/422/462/cn18422462.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/422/463/cn18422463.jpg
+
+
+video:https://www1.assets-gap.com/webcontent/0018/422/464/cn18422464.mp4
+
+
+548041012_main:thumbnail:https://www1.assets-gap.com/webcontent/0018/510/393/cn18510393.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/510/392/cn18510392.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/510/444/cn18510444.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/510/446/cn18510446.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/510/450/cn18510450.jpg
+
+
+548041002_main:thumbnail:https://www1.assets-gap.com/webcontent/0018/558/932/cn18558932.jpg
+
+
+small:https://www1.assets-gap.com/webcontent/0018/558/931/cn18558931.jpg
+
+
+large:https://www1.assets-gap.com/webcontent/0018/558/927/cn18558927.jpg
+
+
+medium:https://www1.assets-gap.com/webcontent/0018/558/947/cn18558947.jpg
+
+
+xlarge:https://www1.assets-gap.com/webcontent/0018/558/930/cn18558930.jpg
+
+
+crosssellinfo:
+
+
+colorlabel:color
+
+
+currencycode:usd
+
+
+currentcolormainimage:/webcontent/0018/510/444/cn18510444.jpg
+
+
+categoryid:null
+
+
+primarycategoryid:69883
+
+
+reserveinstore:true
+
+
+customerreviews:true
+
+
+bvreviewsenabledflag:true
+
+
+hassupprice:false
+
+
+producttitle:poplin shirt dress
+
+
+mupmessage:null
+
+
+priceadapter:regularmaxprice:119
+
+
+selectedvariant:id:1
+
+
+businesscatalogitemid:548041012
+
+
+selectedcolor:colorname:white 
+
+
+businesscatalogitemid:548041012
+
+
+selectedsize:
+
+
+isreserveinstore:true
+
+
+unselectedlabels:size
+
+
+disabledcomponentfis:true
+
+
+childcategoryproductdata:
+
+
+contentdata:sitewide:topnav:data:isnavsticky:true
+
+
+title:poplin shirt dress | banana republic
+
+
+description:shop banana republic\'s poplin shirt dress: coffee to cocktails. this classic shirtdress is made in our super stretch cotton poplin for a flattering
+
+
+ comfortable fit.
+
+
+ point collar. long sleeves with button cuffs.
+
+
+ button front. belted waist.
+
+
+ lined skirt
+
+
+ unlined bodice.
+
+
+ produced in a facility that runs p.a.c.e. â\x80\x93 gap inc.\'s program to educate and empower women in the communities where our products are made. learn more here
+
+
+canonicalurl:https://bananarepublic.gap.com/browse/product.do?pid=548041
+
+
+ogmetadata:sitename:banana republic
+
+
+type:product
+
+
+image:/webcontent/0018/510/444/cn18510444.jpg
+
+
+imagealt:poplin shirt dress
+
+
+astags:\\n    <meta property=\\og:type\\ content=\\product\\ />\\n    <meta property=\\og:site_name\\ content=\\banana republic\\ />\\n    <meta property=\\og:image\\ content=\\https://bananarepublic.gap.com/webcontent/0018/510/444/cn18510444.jpg\\ />\\n    <meta property=\\og:image:alt\\ content=\\poplin shirt dress\\ />\\n  
+
+
+breadcrumbs:category:name:dresses
+
+
+url:/browse/category.do?cid=69883&bc=true
+
+
+division:name:women
+
+
+url:/browse/division.do?cid=5002&bc=true
+
+
+seopageschema:\\@context\\:\\https://schema.org\\
+
+
+\\@type\\:\\product\\
+
+
+\\name\\:\\poplin shirt dress\\
+
+
+\\description\\:\\coffee to cocktails. this classic shirtdress is made in our super stretch cotton poplin for a flattering
+
+
+ unlined bodice. produced in a facility that runs p.a.c.e. â\x80\x93 gap inc.\'s program to educate and empower women in the communities where our products are made. learn more <a href=\\\\\\https://bananarepublic.com/pace\\\\\\>here</a>\\
+
+
+\\productid\\:\\548041\\
+
+
+\\brand\\:\\@type\\:\\thing\\
+
+
+\\name\\:\\banana republic\\
+
+
+\\offers\\:\\@type\\:\\offer\\
+
+
+\\price\\:\\119.00\\
+
+
+\\pricecurrency\\:\\usd\\
+
+
+\\itemcondition\\:\\https://schema.org/newcondition\\
+
+
+\\availability\\:\\https://schema.org/instock\\
+
+
+\\itemoffered\\:\\@type\\:\\individualproduct\\
+
+
+\\brand\\:\\banana republic\\
+
+
+\\color\\:\\white \\
+
+
+\\sku\\:\\5480410120000\\
+
+
+\\image\\:\\https://bananarepublic.gap.com/webcontent/0018/510/444/cn18510444.jpg\\
+
+
+\\seller\\:\\@type\\:\\organization\\
+
+
+\\url\\:\\https://bananarepublic.gap.com/browse/product.do?pid=548041\\
+
+
+\\@type\\:\\offer\\
+
+
+\\sku\\:\\5480410120002\\
+
+
+\\sku\\:\\5480410120004\\
+
+
+\\sku\\:\\5480410120006\\
+
+
+\\sku\\:\\5480410120008\\
+
+
+\\sku\\:\\5480410120010\\
+
+
+\\sku\\:\\5480410120012\\
+
+
+\\sku\\:\\5480410120014\\
+
+
+\\availability\\:\\https://schema.org/outofstock\\
+
+
+\\sku\\:\\5480410120016\\
+
+
+\\sku\\:\\5480410120018\\
+
+
+\\sku\\:\\5480410120020\\
+
+
+\\url\\:\\https://bananarepublic.gap.com/browse/product.do?pid=548041\\
+
+
+\\@context\\:\\https://schema.org\\
+
+
+\\@type\\:\\breadcrumblist\\
+
+
+\\itemlistelement\\:\\@type\\:\\listitem\\
+
+
+\\position\\:1
+
+
+\\item\\:\\@id\\:\\https:///browse/division.do?cid=5002&bc=true\\
+
+
+\\name\\:\\women\\
+
+
+\\@type\\:\\listitem\\
+
+
+\\position\\:2
+
+
+\\item\\:\\@id\\:\\https:///browse/category.do?cid=69883&bc=true\\
+
+
+\\name\\:\\dresses\\
+
+
+selectednodes:
+
+
+htmllangattribute:lang=\\en-us\\
+
+
+brandinformation:abbrbrand:br
+
+
+abbrnameforbv:br
+
+
+abbrnamefortealium:br
+
+
+brand:banana-republic
+
+
+displayname:banana republic
+
+
+marketagnosticbrandcode:2
+
+
+marketawarebrandcode:2
+
+
+enabledfeatures:productstyle-service-us-br:true
+
+
+productstyle-service-us-hc:true
+
+
+productstyle-service-us-on:true
+
+
+productstyle-service-us-at:true
+
+
+productstyle-service-us-gap:true
+
+
+navigation-service-us-gap:true
+
+
+navigation-service-us-on:true
+
+
+navigation-service-us-hc:true
+
+
+navigation-service-us-at:true
+
+
+navigation-service-us-br:true
+
+
+hc:true
+
+
+breadcrumbs-hc:true
+
+
+bopis-us-on:true
+
+
+react-personalization-polling:true
+
+
+bopis-category:true
+
+
+stylitics-us-br:true
+
+
+stylitics-us-gap:true
+
+
+stylitics-us-at:true
+
+
+stylitics-us-on:true
+
+
+true-fit-us-on:true
+
+
+department-facet-hide-us-hc:true
+
+
+department-facet-hide-us-gap:true
+
+
+pdp-recommendations-us-hc:true
+
+
+pdp-recommendations-us-on:true
+
+
+pdp-recommendations-us-br:true
+
+
+pdp-recommendations-us-at:true
+
+
+pdp-recommendations-us-gap:true
+
+
+left-rail-facet-on-us:true
+
+
+left-rail-facet-gap-us:true
+
+
+left-rail-facet-br-us:true
+
+
+left-rail-facet-hc-us:true
+
+
+scroll-to-top-category-us-hc:true
+
+
+left-rail-facet-at-us:true
+
+
+scroll-to-top-search-us-hc:true
+
+
+productdiscovery-service:true
+
+
+pdp-redesign-us-br:true
+
+
+pdp-redesign-us-gap:true
+
+
+pdp-redesign-us-hc:true
+
+
+pdp-redesign-us-at:true
+
+
+pdp-redesign-us-on:true
+
+
+pdp-sizeinclusivity-us-on:true
+
+
+pdp-bricks-us-on:true
+
+
+sort-by-br-us:true
+
+
+sort-by-gap-us:true
+
+
+sort-by-on-us:true
+
+
+pdp-redesign-mobile-carousel-us-on:true
+
+
+pdp-redesign-desktop-drawer-us-br:true
+
+
+pdp-redesign-mobile-carousel-us-at:true
+
+
+pdp-redesign-desktop-drawer-us-on:true
+
+
+pdp-redesign-mobile-carousel-us-br:true
+
+
+pdp-bricks-us-br:true
+
+
+pdp-redesign-desktop-drawer-us-gap:true
+
+
+true-fit-us-at:true
+
+
+pdp-redesign-mobile-carousel-us-gap:true
+
+
+pdp-redesign-desktop-drawer-us-at:true
+
+
+true-fit-us-gap:true
+
+
+true-fit-us-br:true
+
+
+pdp-bricks-us-gap:true
+
+
+pdp-bricks-us-hc:true
+
+
+left-rail-mobile-facet-br-us:true
+
+
+left-rail-mobile-facet-on-us:true
+
+
+left-rail-mobile-facet-hc-us:true
+
+
+left-rail-mobile-facet-gap-us:true
+
+
+left-rail-mobile-facet-at-us:true
+
+
+cross-link-categories-br:true
+
+
+cross-link-categories-gap:true
+
+
+cross-link-categories-on:true
+
+
+cross-link-categories-at:true
+
+
+cross-link-categories-hc:true
+
+
+bopis-us-br:true
+
+
+bopis-us-at:true
+
+
+division-pages-on:true
+
+
+mobile-sticky-brand-bar:true
+
+
+search-bloomreach:true
+
+
+autosuggest-bloomreach:true
+
+
+pdp-photo-carousel-slick:true
+
+
+pas-us-at:true
+
+
+pas-us-br:true
+
+
+stylitics-ca-br:true
+
+
+stylitics-ca-on:true
+
+
+stylitics-ca-gap:true
+
+
+use-external-customerid-us-on:true
+
+
+use-external-customerid-us-at:true
+
+
+pdp-recommendations-ca-gap:true
+
+
+pdp-redesign-desktop-drawer-ca-gap:true
+
+
+pdp-redesign-ca-br:true
+
+
+pdp-redesign-ca-gap:true
+
+
+pdp-recommendations-ca-on:true
+
+
+pdp-redesign-ca-on:true
+
+
+pdp-redesign-mobile-carousel-ca-br:true
+
+
+pdp-redesign-mobile-carousel-ca-gap:true
+
+
+pdp-recommendations-ca-br:true
+
+
+pdp-redesign-desktop-drawer-ca-on:true
+
+
+pdp-redesign-desktop-drawer-ca-br:true
+
+
+use-external-customerid-us-gap:true
+
+
+pdp-redesign-mobile-carousel-ca-on:true
+
+
+use-external-customerid-us-br:true
+
+
+pdp-hide-shipping-us-brfs:true
+
+
+pdp-hide-shipping-us-gapfs:true
+
+
+pdp-recommendations-us-gapfs:true
+
+
+cat-breadcrumb-hc:true
+
+
+pdp-recommendations-us-brfs:true
+
+
+cat-breadcrumb-br:true
+
+
+cat-breadcrumb-on:true
+
+
+cat-breadcrumb-at:true
+
+
+cat-breadcrumb-gap:true
+
+
+stylitics-us-brfs:true
+
+
+curbside-us-on:true
+
+
+curbside-us-at:true
+
+
+cat-alt-view-us-br:true
+
+
+curbside-us-br:true
+
+
+bag-ui-applepay:true
+
+
+department-facet-hide-us-gapfs:true
+
+
+use-external-customerid-us-brfs:true
+
+
+productstyle-service-ca-on:true
+
+
+cross-link-categories-brfs:true
+
+
+use-external-customerid-us-gapfs:true
+
+
+productstyle-service-us-gapfs:true
+
+
+bopis-curbside-us-at:true
+
+
+cross-link-categories-gapfs:true
+
+
+productstyle-service-ca-gap:true
+
+
+productstyle-service-us-brfs:true
+
+
+bopis-curbside-us-on:true
+
+
+bopis-curbside-us-br:true
+
+
+productstyle-service-ca-br:true
+
+
+featurevariables:pdp-bricks-us-gap:primarycategoryid:5664
+
+
+6998
+
+
+6189
+
+
+6276
+
+
+pdp-bricks-us-on:primarycategoryid:85729
+
+
+pdp-bricks-us-br:primarycategoryid:69883
+
+
+67595
+
+
+1107488
+
+
+5030
+
+
+87056
+
+
+5032
+
+
+99915
+
+
+5013
+
+
+28660
+
+
+1016720
+
+
+44873
+
+
+75310
+
+
+32643
+
+
+35878
+
+
+5389
+
+
+1072457
+
+
+70016
+
+
+5170
+
+
+24906
+
+
+5176
+
+
+15227
+
+
+40926
+
+
+1107608
+
+
+pdp-bricks-us-hc:primarycategoryid:all
+
+
+bopis-us-on:fulfillmentdisplay:true
+
+
+bopis-us-at:fulfillmentdisplay:true
+
+
+bopis-us-br:fulfillmentdisplay:true
+
+
+appconfig:bazaarvoiceapiurl:https://apps.bazaarvoice.com/deployments/gap/br_us/production/en_us/bv.js
+
+
+brandcodeurls:secureurl:https://secure-bananarepublic.gap.com
+
+
+unsecureurl:http://bananarepublic.gap.com
+
+
+commonhost:bananarepublic.gap.com
+
+
+translations:en-us:translation:pdp.currencysymbol:$
+
+
+pdp.product.sale:sale
+
+
+pdp.technicalerror:we&apos;re having a technical problem on this page. refresh the page and try your selection again or find another product.
+
+
+pdp.closemodal.alttext:close modal
+
+
+pdp.quantityselector.title:quantity
+
+
+pdp.quantitygroup.arialabel:select a quantity
+
+
+pdp.addtobag.errormessage:we&apos;re experiencing a technical problem and this item cannot be added to bag. please refresh the page or try again later. if the problem persists
+
+
+ customer service can help you at 1-800-427-7895.
+
+
+pdp.addtobag.text:add to bag
+
+
+pdp.addtobag.arialabel:add to bag. this button will add the item to your bag and open a dialog window. after opening press tab to move context to dialog.
+
+
+pdp.buybox.errormessage.generalerror:we&apos;re having a technical problem on this page. refresh the page and try your selection again or find another product.
+
+
+pdp.buybox.errormessage.onbackorder:on back order - est. shipping date
+
+
+pdp.buybox.errormessage.onbackorder.arialabel:on back order. estimated shipping date is
+
+
+pdp.buybox.mergedvariantmessage:will take you to a new product page
+
+
+pdp.pricenow:now
+
+
+pdp.modal.opens:launches a dialog window.
+
+
+pdp.drawer.openbutton:opens drawer
+
+
+pdp.drawer.closebutton:close drawer
+
+
+pdp.availabilitymessageinline.text:
+
+
+pdp.availabilitymessageshipto.shipto:ship to an address
+
+
+pdp.availabilitymessageshipto.availableshipto:available - ship to an address
+
+
+pdp.availabilitymessageshipto.unavailableshipto:unavailable - ship to an address
+
+
+pdp.availabilitymessageshipto.freemin:free ($50 min)
+
+
+pdp.fulfillmentmethod.arialabel:select a fulfillment method.
+
+
+pdp.fulfillmentmethod.selectastore:select a store to check pickup in-store product availability
+
+
+pdp.fulfillmentmethod.shipfree:ship to an address - free ($50 min)
+
+
+pdp.fulfillmentmethod.orderby:order by 4pm to get it today
+
+
+pdp.fulfillmentmethod.maplinkarialabel:directions to store.storename - store.storedistance miles away
+
+
+ opens in a new tab
+
+
+pdp.fulfillmentmethod.curbside.selectastore:select a store to check curbside pickup product availability
+
+
+pdp.fulfillmentmethod.bopisandcurbside.selectastore:select a store to check product availability
+
+
+pdp.variantgrouplabel:variants
+
+
+pdp.colorpickergrouplabel:color
+
+
+pdp.colorlabel:color
+
+
+pdp.sizelabel:size
+
+
+pdp.continueshoppingbutton.buttontext:continue shopping
+
+
+pdp.customerinformationform.firstnamelabel:first name
+
+
+pdp.customerinformationform.firstnameerror:enter a first name.
+
+
+pdp.customerinformationform.lastnamelabel:last name
+
+
+pdp.customerinformationform.lastnameerror:enter a last name.
+
+
+pdp.customerinformationform.emaillabel:email address
+
+
+pdp.customerinformationform.emailerror:enter a valid email address.
+
+
+pdp.reservationcancel.arialabel:cancel reservation and exit find in store dialog window
+
+
+pdp.emailsignupcheckbox:sign up for our emails to get first dibs on new arrivals
+
+
+ can\'t miss deals and more.
+
+
+pdp.finditnow.text:find it now
+
+
+pdp.finditnow.storelist.errormessage:we couldn\'t find a store that matched your criteria. please try again.
+
+
+pdp.finditnow.storeselectbutton.arialabel:reserve this item at the storename store
+
+
+pdp.finditnow.reserveinstore:reserve in store
+
+
+pdp.finditnow.holdonline:hold online. ready in stores.
+
+
+pdp.finditnow.finditnowarialabel:find it now. this button will open a dialog window. after opening press tab to move context to dialog.
+
+
+pdp.finditnow.selection.error.needssizes:please select a size to see store availability.
+
+
+pdp.finditnow.selection.error.needszipcode:please enter a zip code to see store availability.
+
+
+pdp.finditnow.selection.error.nostoresfound:we couldn\'t find a store that matched your criteria. please try again.
+
+
+pdp.finditnow.selection.error.invalidzipcode:your current zip code is zipcode. storeslength stores have been listed below based on this zip code. if youâ\x80\x99d like to change the zip code
+
+
+ please enter a valid 5-digit zip code.
+
+
+pdp.finditnow.selection.error.unknown:sorry
+
+
+ something went wrong. please try again.
+
+
+pdp.finditnow.selection.error.zipcode:please enter a 5-digit zip code.
+
+
+pdp.finditnow.selection.label.color:color
+
+
+pdp.finditnow.selection.label.productid:product id: #styleid
+
+
+pdp.finditnow.selection.label.zipcode:zip code
+
+
+pdp.finditnow.selection.label.storedistance:storedistance miles
+
+
+pdp.finditnow.selection.postalcodeinput.arialabel:search zip code to find store availability. stores will populate after a valid 5 digit code is entered
+
+
+pdp.finditnow.selection.inventory.available:available
+
+
+pdp.finditnow.selection.inventory.limited:limited supply
+
+
+pdp.finditnow.selection.inventory.unavailable:unavailable
+
+
+pdp.findinstore.reserve:reserve in store
+
+
+pdp.findinstore.hold:hold online. ready in store.
+
+
+pdp.findinstore.launchmodal.arialabel:find it now will launch a window dialog to help you find out if this item is available to reserve at a store near you for pickup.
+
+
+pdp.findinstore.modal.title:find it now
+
+
+pdp.findinstore.changestorebutton.buttontext:change store
+
+
+pdp.photocarousel.altimages.productimagealttext:view large product image imagenumber of imagestotal
+
+
+pdp.photocarousel.altimages.productvideoalttext:view product video
+
+
+pdp.photocarousel.imagealttext:product color detail
+
+
+pdp.photocarousel.modelsizetext:size size model
+
+
+pdp.photobrick.photobrickalttext:image number imagenumber showing
+
+
+ producttitle
+
+
+pdp.photobrick.imagesshowingproducttitle:images showing producttitle
+
+
+pdp.modelsizeselector.text:model size selector
+
+
+pdp.modelsizeselector.seeon:see on
+
+
+pdp.modelsizeselector.buttonlabel:see on size
+
+
+pdp.modelsizeselectorslider.textlineone:model is
+
+
+pdp.modelsizeselectorslider.textlinetwo:size size
+
+
+pdp.modelsizeselectorslider.buttonlabel:see on size size model
+
+
+pdp.recommendedproduct.price:currencysymbolprice
+
+
+pdp.recommendedproduct.percentoff:percentage% off
+
+
+pdp.recommendedproduct.newprice:now currencysymbolprice
+
+
+pdp.swatchlabel.arialabel:current selected label is value
+
+
+pdp.sizeguide:size guide
+
+
+pdp.sizeguide.fitandsizing:fit & sizing - opens drawer
+
+
+pdp.insitu.title.altaddedtobag:product added to bag
+
+
+pdp.insitu.title.addtobag:added to your bag
+
+
+pdp.insitu.label.color:color
+
+
+pdp.insitu.label.size:size
+
+
+pdp.insitu.label.qty:qty
+
+
+pdp.insitu.label.pickup:pickup in-store
+
+
+pdp.insitu.label.curbside.pickup:curbside pickup
+
+
+pdp.insitu.oneiteminbag:1 item in bag
+
+
+pdp.insitu.multipleitemsinbag:items in bag
+
+
+pdp.insitu.noreturns:no returns â\x80\x93 final sale item
+
+
+pdp.insitu.returnsbymailonly:return by mail only
+
+
+pdp.insitu.label.subtotal:subtotal
+
+
+pdp.insitu.button.keepshopping:keep shopping
+
+
+pdp.insitu.button.checkout:checkout
+
+
+pdp.reservationview.errormessage:we are currently experiencing technical difficulties. please try again later or call us for assistance.
+
+
+pdp.reservationview.contactinfo:please enter your contact information
+
+
+pdp.reservationview.confirmation:weâ\x80\x99ll confirm when we locate your item
+
+
+ usually within an hour of the request.
+
+
+pdp.productdetails.tablist.title:product details
+
+
+pdp.productdetails.slide.detailsheading:details
+
+
+pdp.productdetails.slide.additionaldetails:additional details
+
+
+pdp.productinfotabs.tablistlabel:product information
+
+
+pdp.reviews.title.text:reviews
+
+
+pdp.reviews.title.text-singular:review
+
+
+pdp.reviews.accordion.trigger.ariaopentext:open the reviews accordion
+
+
+pdp.reviews.accordion.trigger.ariaclosetext:close the reviews accordion
+
+
+pdp.writereview.text:write a review
+
+
+pdp.availabilitymessagepickup.freepickup:pickup in-store
+
+
+pdp.availabilitymessagepickup.pickupcost:free
+
+
+pdp.availabilitymessagepickup.getittodaytext:order by 4pm to get it today
+
+
+pdp.availabilitymessagepickup.selectionunavailable:your selection is unavailable in this store
+
+
+pdp.availabilitymessagepickup.curbside.freepickup:curbside pickup
+
+
+pdp.availabilitymessagepickup.curbside.pickupcost:free
+
+
+pdp.availabilitymessagepickup.curbside.getittodaytext:order before 2pm to pickup today
+
+
+pdp.availabilitymessagepickup.bopisandcurbside.getittodaytext:order before 2pm to pick up today
+
+
+pdp.availabilitymessagepickup.curbside.freepickup.everythingbagel:pickup
+
+
+pdp.availabilitymessagepickup.curbside.freepickup.closedwithcurbside:curbside pickup
+
+
+pdp.availabilitymessagepickup.curbside.freepickup.openwithbopis:in-store pickup
+
+
+pdp.storelocator.confirmationthanks:thanks
+
+
+pdp.storelocator.confirmationrequestreceived:your request has been sent.
+
+
+pdp.storelocator.confirmationlookingforitem:we\'re looking for your item now.
+
+
+pdp.storelocator.confirmationtimetext:we\'ll confirm your item is ready
+
+
+ usually within an hour.
+
+
+pdp.storelocator.confirmationemailtext:review the email we sent you to see where to go in the store to pick up your items.
+
+
+pdp.storelocator.confirmationbagtext:we\'ll hold your item until closing time.
+
+
+pdp.storelocator.legalpleasenote:please note: product location information is updated every 20-30 minutes.
+
+
+pdp.storelocator.legaltext:in-store prices may vary and may differ from online prices.
+
+
+pdp.storelocator.reservationpleasenote:please note: you can reserve five items daily.
+
+
+pdp.storelocator.reservationcopytext:after we confirm an item is available
+
+
+ we hold it until the store closes the following day. prices in store may differ from prices online.
+
+
+pdp.categoryrecommendationscarousel.heading:you might also like
+
+
+pdp.stylitics.wearitwith:wear it with
+
+
+pdp.shippingandreturns.title:shipping & returns
+
+
+pdp.shippingandreturns.returntitle:returns
+
+
+pdp.shippingandreturns.shippingtitle:shipping
+
+
+pdp.shippingandreturns.returnbymail:returns by mail only
+
+
+pdp.shippingandreturns.freeshipping:free on orders of $50 or more<br/><em>select the \'free\' option</em>
+
+
+pdp.shippingandreturns.flatrate:$7 flat rate for orders under $50
+
+
+pdp.shippingandreturns.learnmore:learn more
+
+
+pdp.shippingandreturns.freereturns:free returns and exchanges on all orders
+
+
+pdp.shippingandreturns.freereturnsbymail:free returns by mail and in store
+
+
+pdp.shippingandreturns.finalsalereturns:no returns or exchanges on final sale items
+
+
+pdp.shippingandreturns.instorereturns:in store: with shipping confirmation email (printed or on mobile device) and card used for purchase
+
+
+pdp.shippingandreturns.noreturns:no returns - final sale item
+
+
+pdp.shippingandreturns.mailreturns.brfs:$5.95 returns/exchanges by mail
+
+
+pdp.shippingandreturns.returnsexchange:free returns  in store &amp; $5.95 returns/exchanges by mail
+
+
+pdp.shippingandreturns.freeshipping.brfs:free shipping on all orders of  $50 or more<br/><em>select  the \\free\\ option in the shopping bag</em>
+
+
+pdp.shippingandreturns.mailreturns.br:by mail: to create a prepaid ups or usps return shipping label
+
+
+ use our <a href=\\https://returns.narvar.com/bananarepublic/returns\\ target=\\_new\\>interactive returns process</a>
+
+
+pdp.shippingandreturns.mailreturns.gap:by mail: to create a prepaid ups or usps return shipping label
+
+
+ use our <a href=\\https://returns.narvar.com/gap/returns\\ target=\\_new\\>interactive returns process</a>
+
+
+pdp.shippingandreturns.mailreturns.at:by mail: to create a prepaid ups or usps return shipping label
+
+
+ use our <a href=\\https://returns.narvar.com/athleta/returns\\ target=\\_new\\>interactive returns process</a>
+
+
+pdp.shippingandreturns.mailreturns.hc:by mail: to create a prepaid ups or usps return shipping label
+
+
+ use our <a href=\\https://returns.narvar.com/hillcity/returns\\ target=\\_new\\>interactive returns process</a>
+
+
+pdp.shippingandreturns.mailreturns.hc.on:by mail: to create a prepaid ups or usps return shipping label
+
+
+ use our <a href=\\https://returns.narvar.com/oldnavy/returns\\ target=\\_new\\>interactive returns process</a>
+
+
+pdp.shippingandreturns.freereturns.brfs:free returns/exchanges by mail and to stores
+
+
+pdp.shippingandreturns.freereturns.hc:free returns and exchanges on all orders
+
+
+pdp.shippingandreturns.freereturnsbymail.hc:free returns by mail and in store
+
+
+core.currency:currencyvalue
+
+
+ currency.usd
+
+
+price.current_price_range_aria_label:now minprice to maxprice
+
+
+price.now_current_price:now price
+
+
+price.percentage_off:value% off
+
+
+price.regular_price_aria_label:was price
+
+
+price.regular_price_range_aria_label:was minprice to maxprice
+
+
+pdp.price.currentpricerangearialabel:now minprice to maxprice
+
+
+pdp.price.nowcurrentprice:now price
+
+
+pdp.price.percentageoff:value% off
+
+
+pdp.price.regularpricearialabel:was price
+
+
+pdp.price.regularpricerangearialabel:was minprice to maxprice
+
+
+changestoremodal.postcodevalidationerror:please enter a 5-digit zip code.
+
+
+changestoremodal.nostorematch:we couldn\'t find a store that matched your criteria. please try again.
+
+
+changestoremodal.pickupunavailable:pickup in-store is unavailable. please try again later.
+
+
+changestoremodal.selectstorecheckavailability:select a store to check pickup in-store product availability.
+
+
+changestoremodal.curbside.selectstorecheckavailability:select a store to check curbside pickup product availability.
+
+
+changestoremodal.bopisandcurbside.selectstorecheckavailability:select a store to check product availability.
+
+
+changestoremodal.curbside.pickupunavailable:curbside pickup is unavailable. please try again later.
+
+
+pdp.fulfilment.curbsidelabel.everythingbagel:curbside and in-store pickup available
+
+
+pdp.fulfilment.curbsidelabel.closedwithcurbside:in-store shopping unavailable at this store
+
+
+pdp.fulfilment.curbsidelabel.openwithbopis:curbside pickup unavailable at this store
+
+
+changestoremodal.store.instore:in-store pickup only
+
+
+changestoremodal.store.curbside:curbside pickup only
+
+
+changestoremodal.store.instoreandcurbside:curbside and in-store pickup
+
+
+productsubcategories:
+
+
+env:prod
+
+
+shippingandreturnsjson:\\localizedtitle\\:\\pdp.shippingandreturns.title\\
+
+
+\\localizedreturntitle\\:\\pdp.shippingandreturns.returntitle\\
+
+
+\\localizedshippingtitle\\:\\pdp.shippingandreturns.shippingtitle\\
+
+
+\\localizedshippinginformation\\:\\pdp.shippingandreturns.freeshipping\\
+
+
+\\pdp.shippingandreturns.flatrate\\
+
+
+\\normalreturns\\:\\localizedlinklist\\:\\text\\:\\pdp.shippingandreturns.learnmore\\
+
+
+\\url\\:\\/asset_archive/gpweb/content/static-marketing/xbrand-edfs-content/edfslegal-br-narvar.html\\
+
+
+\\localizedreturnsubheading\\:\\\\
+
+
+\\localizedreturninformation\\:\\pdp.shippingandreturns.freereturns\\
+
+
+\\pdp.shippingandreturns.finalsalereturns\\
+
+
+\\pdp.shippingandreturns.mailreturns.br\\
+
+
+\\pdp.shippingandreturns.instorereturns\\
+
+
+\\mailonlyreturns\\:\\localizedlinklist\\:\\text\\:\\pdp.shippingandreturns.learnmore\\
+
+
+\\localizedreturnsubheading\\:\\pdp.shippingandreturns.returnbymail\\
+
+
+\\pdp.shippingandreturns.mailreturns.br\\
+
+
+\\freereturns\\:\\localizedlinklist\\:\\text\\:\\pdp.shippingandreturns.learnmore\\
+
+
+\\localizedreturnsubheading\\:\\pdp.shippingandreturns.freereturnsbymail\\
+
+
+\\noreturns\\:\\localizedlinklist\\:\\text\\:\\pdp.shippingandreturns.learnmore\\
+
+
+\\localizedreturnsubheading\\:\\pdp.shippingandreturns.noreturns\\
+
+
+\\localizedreturninformation\\:\\pdp.shippingandreturns.freereturns\\;\n      '
+
+
+ '\n        var buildversions = \n          version: dc367005
+
+
+\n          marketinguiversion: ^20.3.4\n        ;\n        if (window.gap) \n          if (window.gap.buildversion) \n            window.gap.buildversionproduct-page = buildversions;\n           else \n            window.gap.buildversion =  product-page: buildversions \n          \n         else \n          window.gap =  buildversion:  product-page: buildversions  \n        \n        if (window.newrelic) \n          window.newrelic.setcustomattribute(product-page-version
+
+
+ var _cf = _cf || ; _cf.push('_setfsp'
+
+
+ true);  _cf.push('_setbm'
+
+
+ true); _cf.push('_setau'
+
+
+ '/resources/b67b9209f31701989ce71bd4c792fc'); 
+
+
+ '\n  '
+
+
