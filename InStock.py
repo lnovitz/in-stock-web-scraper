@@ -48,7 +48,7 @@ def writeDict(readFile, outFile):
     
 
 # the below writeDict command is only needed once to write the cleaned html to a text file
-writeDict('banana.txt', 'banana_split.txt')
+#writeDict('banana.txt', 'banana_split.txt')
 
 def lookup(lookupText, filename):
     keyFile = open(filename, 'r')
@@ -83,16 +83,23 @@ def writePostLookup(lookupName, filename, newFileName):
     focusFile.close()
 
 # the below writePostLookup gets all text after the phrase colorgroup
-writePostLookup('colorgroup', 'banana_split.txt', 'peeled_banana.txt')
+#writePostLookup('colorgroup', 'banana_split.txt', 'peeled_banana.txt')
 
 
 with open('peeled_banana.txt', 'r') as f:
     color = ['white']
     for line in f:
-        print(line)
+        #print(line)
         if line.startswith('colors'):
-            for i in range(8):
-                    print(next(f))
+            for word in line.strip().split(':'):
+                if word in color:
+                    print('The color is: ',word, '\n')
+        if line.startswith('sizedimension'):
+            for word in line.strip().split(':'):
+                if word.isdigit():
+                    print('The size is: ',word, '\n')
+            #for i in range(8):
+                    #print(next(f))
         #for word in line.strip().split(':'):
         #    if word in color:
                 #print(word)
