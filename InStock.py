@@ -6,6 +6,7 @@
 """
 import requests 
 from lxml import html
+import os
 
 def grabWebLink():
     #webLink= input('Enter the webpage you want to scrape: ')
@@ -72,23 +73,31 @@ def writePostLookup(lookupName, filename, newFileName):
     focusFile.close()
 
 def getColorInventory(filename):
+    prevLine = None
     with open(filename, 'r') as f:
         color = ['white', 'black']
-        for line in f:
+        for lines in f:
+            prevLine = lines
+            line = next(f)
             if line.startswith('colors'):
                 for word in line.strip().split(':'):
                     if word in color:
                         print('The color is: ',word)
+            if line.startswith('instock'):
+                print('This is previous:',prevLine)
+                for word in line.strip().split(':'):
+                    if word in ['true', 'false']:
+                        print('Instock: ',word, '\n')
             if line.startswith('sizedimension'):
                 for word in line.strip().split(':'):
                     if word.isdigit():
                         print('The size is: ',word)
-            if line.startswith('instock'):
-                for word in line.strip().split(':'):
-                    if word in ['true', 'false']:
-                        print('Instock: ',word, '\n')
+
 
 def main():
+    os.remove('banana.txt')
+    os.remove('banana_split.txt')
+    os.remove('peeled_banana.txt')
     # the below command is only needed once to write the html to a text file
     writeMe(getHTML(grabWebLink()), 'banana.txt') 
     # the below writeDict command is only needed once to write the cleaned html to a text file
