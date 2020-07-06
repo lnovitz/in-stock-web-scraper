@@ -42,8 +42,9 @@ def writeDict(readFile, outFile):
     inputFile.close()
 
     for key in elementdict.keys():
-        writeMe(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}','') 
-        + '\n\n\n', outFile)
+        #need to append as we write data to file because of this for loop
+        #print(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}',''))
+        writeMe(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}',''), outFile)
     
 
 # the below writeDict command is only needed once to write the cleaned html to a text file
@@ -63,16 +64,12 @@ def lookup(lookupText, filename):
     else:
         return lookup_list
 
-
-#print(lineStart)
-
-
-
 def writePostLookup(lookupName, filename, newFileName):
-    focusFile = open(newFileName, 'a')
+    focusFile = open(newFileName, 'w')
     keysnew = open(filename, 'r')
     #lookupName = 'colorgroup'
     lineStart = lookup(lookupName, filename)
+    print(lineStart,'0i')
     lineEnd = len(open(filename).readlines())
     count = 0
     for line in keysnew:
@@ -86,18 +83,19 @@ def writePostLookup(lookupName, filename, newFileName):
     focusFile.close()
 
 # the below writePostLookup gets all text after the phrase colorgroup
-#writePostLookup('colorgroup', 'banana_split.txt', 'peeled_banana.txt')
+writePostLookup('colorgroup', 'banana_split.txt', 'peeled_banana.txt')
 
-detailFile = open('peeled_banana.txt', 'r')
-color = ['white']
-for line in detailFile:
-    if line.startswith('pdp'):
-        pdb = True
-    elif line.startswith('colors'):
-        for word in line.strip().split(':'):
-            if word in color:
-                print(word)
-    elif line.startswith('sizedimension'):
-        print(line)
-    elif line.startswith('instock'):
-        print(line)
+
+with open('peeled_banana.txt', 'r') as f:
+    color = ['white']
+    for line in f:
+        if line.startswith('colors'):
+            for i in range(8):
+                    print(next(f))
+        #for word in line.strip().split(':'):
+        #    if word in color:
+                #print(word)
+    #elif line.startswith('sizedimension'):
+        #print(line)
+    #elif line.startswith('instock'):
+        #print(line)
