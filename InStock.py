@@ -54,7 +54,7 @@ for line in inputFile:
             #print(element[find])
             startIndex = find + 1
             x += 1
-print(elements,len(instockIndexes), len(elementdict))
+#print(elements,len(instockIndexes), len(elementdict))
 
 inputFile.close()
 #for key in elementdict.keys():
@@ -67,9 +67,6 @@ inputFile.close()
         #print(line) #index to search will increase for every element
 #print(find)
 
-lineNum = 0
-lookupText = 'colorgroup'
-
 def lookup(lookupText, filename):
     keyFile = open(filename, 'r')
     lookup_list = []
@@ -80,9 +77,18 @@ def lookup(lookupText, filename):
                 lookup_list.append(num)
     keyFile.close()
     if len(lookup_list) == 1:
-        return print(lookup_list[0])
+        return lookup_list[0]
     else:
-        return print(lookup_list)
+        return lookup_list
 
-lookup('colorgroup', 'elementdictkeylist.txt')
-    
+lineStart = lookup('colorgroup', 'elementdictkeylist.txt')
+print(lineStart)
+#keyFile = open('elementdictkeylist.txt', 'r')
+focusFile = open('colorgroup.txt', 'a')
+
+keysnew = open('elementdictkeylist.txt', 'r')
+lineEnd = len(open('elementdictkeylist.txt').readlines())
+print(keysnew)  
+print(lineEnd)
+
+keysnew.close()
