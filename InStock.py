@@ -7,11 +7,9 @@
 import requests 
 from lxml import html
 
-#define URL
-# https://bananarepublic.gap.com/browse/product.do?pid=548041&bvstate=pg:2/ct:r#pdp-page-content
-
 def grabWebLink():
-    webLink= input('Enter the webpage you want to scrape: ')
+    #webLink= input('Enter the webpage you want to scrape: ')
+    webLink = 'https://bananarepublic.gap.com/browse/product.do?pid=548041&bvstate=pg:2/ct:r#pdp-page-content'
     return webLink
 
 # getting the data 
@@ -26,9 +24,6 @@ def writeMe(inputText, filename):
     output.write(inputText)
     output.close()
 
-# writeMe(getHTML(grabWebLink()), 'banana-new-try.txt') # this command is only needed once to write the html to a text file
-
-#inputFile = open('banana.txt', 'r') #read in the html 
 
 #create a dict cleaned up with split method
 def writeDict(readFile, outFile):
@@ -46,10 +41,6 @@ def writeDict(readFile, outFile):
         #print(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}',''))
         writeMe(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}','') + '\n', outFile)
     
-
-# the below writeDict command is only needed once to write the cleaned html to a text file
-#writeDict('banana.txt', 'banana_split.txt')
-
 def lookup(lookupText, filename):
     keyFile = open(filename, 'r')
     lookup_list = []
@@ -67,9 +58,7 @@ def lookup(lookupText, filename):
 def writePostLookup(lookupName, filename, newFileName):
     focusFile = open(newFileName, 'w')
     keysnew = open(filename, 'r')
-    #lookupName = 'colorgroup'
     lineStart = lookup(lookupName, filename)
-    #print(lineStart,'0i')
     lineEnd = len(open(filename).readlines())
     count = 0
     for line in keysnew:
@@ -82,22 +71,30 @@ def writePostLookup(lookupName, filename, newFileName):
     keysnew.close()
     focusFile.close()
 
-# the below writePostLookup gets all text after the phrase colorgroup
-#writePostLookup('colorgroup', 'banana_split.txt', 'peeled_banana.txt')
+def getColorInventory(filename):
+    with open(filename, 'r') as f:
+        color = ['white', 'black']
+        for line in f:
+            if line.startswith('colors'):
+                for word in line.strip().split(':'):
+                    if word in color:
+                        print('The color is: ',word)
+            if line.startswith('sizedimension'):
+                for word in line.strip().split(':'):
+                    if word.isdigit():
+                        print('The size is: ',word)
+            if line.startswith('instock'):
+                for word in line.strip().split(':'):
+                    if word in ['true', 'false']:
+                        print('Instock: ',word, '\n')
 
+def main():
+    # the below command is only needed once to write the html to a text file
+    writeMe(getHTML(grabWebLink()), 'banana.txt') 
+    # the below writeDict command is only needed once to write the cleaned html to a text file
+    writeDict('banana.txt', 'banana_split.txt')
+    # the below writePostLookup gets all text after the phrase colorgroup
+    writePostLookup('colorgroup', 'banana_split.txt', 'peeled_banana.txt')
+    # the below command getColorInventory prints the color, size, and instock or not
+    getColorInventory('peeled_banana.txt')
 
-with open('peeled_banana.txt', 'r') as f:
-    color = ['white', 'black']
-    for line in f:
-        if line.startswith('colors'):
-            for word in line.strip().split(':'):
-                if word in color:
-                    print('The color is: ',word, '\n')
-        if line.startswith('sizedimension'):
-            for word in line.strip().split(':'):
-                if word.isdigit():
-                    print('The size is: ',word, '\n')
-        if line.startswith('instock'):
-            for word in line.strip().split(':'):
-                if word in ['true', 'false']:
-                    print('Instock: ',word, '\n')
