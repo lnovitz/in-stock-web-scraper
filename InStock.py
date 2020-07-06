@@ -26,11 +26,6 @@ def writeMe(inputText, filename):
     output.write(inputText)
     output.close()
 
-def appendHTML(treeOutput):
-    output = open('banana-split.txt', 'a') #write html to a text file
-    output.write(treeOutput)
-    output.close()
-
 # writeMe(getHTML(grabWebLink()), 'banana-new-try.txt') # this command is only needed once to write the html to a text file
 
 #inputFile = open('banana.txt', 'r') #read in the html 
