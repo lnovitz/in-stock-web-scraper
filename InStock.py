@@ -47,11 +47,12 @@ def writeDict(readFile, outFile):
     inputFile.close()
 
     for key in elementdict.keys():
-        writeMe(key.replace('"','').replace('{','').replace('}','') + '\n\n\n', outFile)
+        writeMe(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}','') 
+        + '\n\n\n', outFile)
     
 
 # the below writeDict command is only needed once to write the cleaned html to a text file
-#writeDict('banana.txt', 'elementdictkeylist2.txt')
+# writeDict('banana.txt', 'banana_split.txt')
 
 def lookup(lookupText, filename):
     keyFile = open(filename, 'r')
@@ -67,13 +68,17 @@ def lookup(lookupText, filename):
     else:
         return lookup_list
 
-lineStart = lookup('colorgroup', 'elementdictkeylist.txt')
-print(lineStart)
-focusFile = open('colorgroup.txt', 'a')
-keysnew = open('elementdictkeylist.txt', 'r')
-lineEnd = len(open('elementdictkeylist.txt').readlines())
 
-def writePostLookup():
+#print(lineStart)
+
+
+
+def writePostLookup(lookupName, filename, newFileName):
+    focusFile = open(newFileName, 'a')
+    keysnew = open(filename, 'r')
+    #lookupName = 'colorgroup'
+    lineStart = lookup(lookupName, filename)
+    lineEnd = len(open(filename).readlines())
     count = 0
     for line in keysnew:
         if count >= lineStart and count <= lineEnd:
@@ -84,3 +89,13 @@ def writePostLookup():
 
     keysnew.close()
     focusFile.close()
+
+# the below writePostLookup gets all text after the phrase colorgroup
+#writePostLookup('colorgroup', 'banana_split.txt', 'peeled_banana.txt')
+
+detailFile = open('peeled_banana.txt', 'r')
+for line in detailFile:
+    if line.startswith('pdp'):
+        pdb = True
+    elif line.startswith('colors'):
+        print(line.strip().split(':'))
