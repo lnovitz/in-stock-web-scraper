@@ -40,24 +40,18 @@ def writeDict(readFile, outFile):
     elementdict = {}
     inputFile = open(readFile, 'r')
     for line in inputFile:
-        strings = line.lower().split(",")
+        strings = line.lower().split(",") #split based on commas
         for element in strings:
-            elementSplit = element.split()
+            elementSplit = element.split() #split based on spaces
             elementdict[element] = elementSplit
     inputFile.close()
 
     for key in elementdict.keys():
         writeMe(key.replace('"','').replace('{','').replace('}','') + '\n\n\n', outFile)
-        #writeMe(str(elementdict.keys()), 'elementdictkeys.txt')
     
 
-writeDict('banana.txt', 'elementdictkeylist2.txt')
-
-#keyFile = open('elementdictkeylist.txt', 'r') #read in the html 
-
-        #get
-        #print(line) #index to search will increase for every element
-#print(find)
+# the below writeDict command is only needed once to write the cleaned html to a text file
+#writeDict('banana.txt', 'elementdictkeylist2.txt')
 
 def lookup(lookupText, filename):
     keyFile = open(filename, 'r')
