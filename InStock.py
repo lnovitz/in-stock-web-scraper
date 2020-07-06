@@ -44,11 +44,11 @@ def writeDict(readFile, outFile):
     for key in elementdict.keys():
         #need to append as we write data to file because of this for loop
         #print(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}',''))
-        writeMe(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}',''), outFile)
+        writeMe(key.replace('[','').replace(']','').replace('"','').replace('{','').replace('}','') + ' ', outFile)
     
 
 # the below writeDict command is only needed once to write the cleaned html to a text file
-# writeDict('banana.txt', 'banana_split.txt')
+writeDict('banana.txt', 'banana_split.txt')
 
 def lookup(lookupText, filename):
     keyFile = open(filename, 'r')
@@ -69,7 +69,7 @@ def writePostLookup(lookupName, filename, newFileName):
     keysnew = open(filename, 'r')
     #lookupName = 'colorgroup'
     lineStart = lookup(lookupName, filename)
-    print(lineStart,'0i')
+    #print(lineStart,'0i')
     lineEnd = len(open(filename).readlines())
     count = 0
     for line in keysnew:
