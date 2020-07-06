@@ -83,9 +83,7 @@ def lookup(lookupText, filename):
 
 lineStart = lookup('colorgroup', 'elementdictkeylist.txt')
 print(lineStart)
-#keyFile = open('elementdictkeylist.txt', 'r')
 focusFile = open('colorgroup.txt', 'a')
-
 keysnew = open('elementdictkeylist.txt', 'r')
 lineEnd = len(open('elementdictkeylist.txt').readlines())
 
