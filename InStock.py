@@ -94,8 +94,15 @@ def writePostLookup(lookupName, filename, newFileName):
 #writePostLookup('colorgroup', 'banana_split.txt', 'peeled_banana.txt')
 
 detailFile = open('peeled_banana.txt', 'r')
+color = ['white']
 for line in detailFile:
     if line.startswith('pdp'):
         pdb = True
     elif line.startswith('colors'):
-        print(line.strip().split(':'))
+        for word in line.strip().split(':'):
+            if word in color:
+                print(word)
+    elif line.startswith('sizedimension'):
+        print(line)
+    elif line.startswith('instock'):
+        print(line)
