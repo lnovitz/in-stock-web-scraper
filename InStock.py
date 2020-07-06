@@ -21,9 +21,9 @@ def getHTML(webLink):
     treeOutput = tree.xpath("//html//text()")
     return str(treeOutput) #get html output as a string
 
-def writeHTML(treeOutput):
-    output = open('banana-new.txt', 'w') #write html to a text file
-    output.write(treeOutput)
+def writeMe(inputText, filename):
+    output = open(filename, 'a') #write html to a text file
+    output.write(inputText)
     output.close()
 
 def appendHTML(treeOutput):
@@ -31,19 +31,58 @@ def appendHTML(treeOutput):
     output.write(treeOutput)
     output.close()
 
-# writeHTML(getHTML(grabWebLink())) # this command is only needed once to write the html to a text file
+# writeMe(getHTML(grabWebLink()), 'banana-new-try.txt') # this command is only needed once to write the html to a text file
 
 inputFile = open('banana.txt', 'r') #read in the html 
-#inputFile = list(inputFile)
 
 startIndex = 0
-newInput = []
+instockIndexes = []
+elements = 0
+elementSplit = []
+elementdict = {}
 for line in inputFile:
-    strings = line.split(",")
+    strings = line.lower().split(",")
+    print(type(strings))
     for element in strings:
-        startIndex += 1
-print(startIndex)
+        find = element.find('instock', startIndex) #index to search will increase for every element
+        x = 0
+        elementSplit = element.split()
+        elementdict[element] = elementSplit
+        elements += 1
+        for x in range(5):
+            instockIndexes.append(find)
+            #print(element[find])
+            startIndex = find + 1
+            x += 1
+print(elements,len(instockIndexes), len(elementdict))
 
 inputFile.close()
+#for key in elementdict.keys():
+#    writeMe(key.replace('"','').replace('{','').replace('}','') + '\n\n\n', 'elementdictkeylist.txt')
+#writeMe(str(elementdict.keys()), 'elementdictkeys.txt')
 
+#keyFile = open('elementdictkeylist.txt', 'r') #read in the html 
+
+        #get
+        #print(line) #index to search will increase for every element
+#print(find)
+
+lineNum = 0
+lookupText = 'colorgroup'
+
+def lookup(lookupText, filename):
+    keyFile = open(filename, 'r')
+    lookup_list = []
+    with keyFile as f:
+        for num, line in enumerate(f, 0):
+            if lookupText in line:
+                #print('found at line:', num)
+                lookup_list.append(num)
+    keyFile.close()
+    if len(lookup_list) == 1:
+        return print(lookup_list[0])
+    else:
+        return print(lookup_list)
+
+lookup('colorgroup', 'elementdictkeylist.txt')
     
