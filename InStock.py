@@ -88,7 +88,14 @@ focusFile = open('colorgroup.txt', 'a')
 
 keysnew = open('elementdictkeylist.txt', 'r')
 lineEnd = len(open('elementdictkeylist.txt').readlines())
-print(keysnew)  
-print(lineEnd)
+
+count = 0
+for line in keysnew:
+    if count >= lineStart and count <= lineEnd:
+        count += 1
+        focusFile.write(line)
+    else:
+        count += 1
 
 keysnew.close()
+focusFile.close()
