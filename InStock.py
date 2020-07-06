@@ -33,33 +33,25 @@ def appendHTML(treeOutput):
 
 # writeMe(getHTML(grabWebLink()), 'banana-new-try.txt') # this command is only needed once to write the html to a text file
 
-inputFile = open('banana.txt', 'r') #read in the html 
+#inputFile = open('banana.txt', 'r') #read in the html 
 
-startIndex = 0
-instockIndexes = []
-elements = 0
-elementSplit = []
-elementdict = {}
-for line in inputFile:
-    strings = line.lower().split(",")
-    print(type(strings))
-    for element in strings:
-        find = element.find('instock', startIndex) #index to search will increase for every element
-        x = 0
-        elementSplit = element.split()
-        elementdict[element] = elementSplit
-        elements += 1
-        for x in range(5):
-            instockIndexes.append(find)
-            #print(element[find])
-            startIndex = find + 1
-            x += 1
-#print(elements,len(instockIndexes), len(elementdict))
+#create a dict cleaned up with split method
+def writeDict(readFile, outFile):
+    elementdict = {}
+    inputFile = open(readFile, 'r')
+    for line in inputFile:
+        strings = line.lower().split(",")
+        for element in strings:
+            elementSplit = element.split()
+            elementdict[element] = elementSplit
+    inputFile.close()
 
-inputFile.close()
-#for key in elementdict.keys():
-#    writeMe(key.replace('"','').replace('{','').replace('}','') + '\n\n\n', 'elementdictkeylist.txt')
-#writeMe(str(elementdict.keys()), 'elementdictkeys.txt')
+    for key in elementdict.keys():
+        writeMe(key.replace('"','').replace('{','').replace('}','') + '\n\n\n', outFile)
+        #writeMe(str(elementdict.keys()), 'elementdictkeys.txt')
+    
+
+writeDict('banana.txt', 'elementdictkeylist2.txt')
 
 #keyFile = open('elementdictkeylist.txt', 'r') #read in the html 
 
@@ -87,13 +79,14 @@ focusFile = open('colorgroup.txt', 'a')
 keysnew = open('elementdictkeylist.txt', 'r')
 lineEnd = len(open('elementdictkeylist.txt').readlines())
 
-count = 0
-for line in keysnew:
-    if count >= lineStart and count <= lineEnd:
-        count += 1
-        focusFile.write(line)
-    else:
-        count += 1
+def writePostLookup():
+    count = 0
+    for line in keysnew:
+        if count >= lineStart and count <= lineEnd:
+            count += 1
+            focusFile.write(line)
+        else:
+            count += 1
 
-keysnew.close()
-focusFile.close()
+    keysnew.close()
+    focusFile.close()
